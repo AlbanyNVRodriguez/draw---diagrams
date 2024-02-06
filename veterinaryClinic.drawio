@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-06T01:08:10.629Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="GGijEEAIkOcz4rdt6Zfd" version="23.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-06T01:11:19.329Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="5adxP3SL4rNxG2d-rXre" version="23.1.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="612" dy="1493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="718" dy="1549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -832,12 +832,12 @@
             <mxRectangle width="152" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NPSr7LDMEiGMz0I1Zfry-106" value="gomez" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="NPSr7LDMEiGMz0I1Zfry-103">
+        <mxCell id="NPSr7LDMEiGMz0I1Zfry-106" value="&lt;div&gt;Antibiotics and special diet for gastroenteritis&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="NPSr7LDMEiGMz0I1Zfry-103">
           <mxGeometry x="292" width="119" height="40" as="geometry">
             <mxRectangle width="119" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NPSr7LDMEiGMz0I1Zfry-167" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="NPSr7LDMEiGMz0I1Zfry-103">
+        <mxCell id="NPSr7LDMEiGMz0I1Zfry-167" value="&lt;div&gt;amoxicillin&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="NPSr7LDMEiGMz0I1Zfry-103">
           <mxGeometry x="411" width="131" height="40" as="geometry">
             <mxRectangle width="131" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -870,12 +870,12 @@
             <mxRectangle width="152" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NPSr7LDMEiGMz0I1Zfry-115" value="becerra" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="NPSr7LDMEiGMz0I1Zfry-112">
+        <mxCell id="NPSr7LDMEiGMz0I1Zfry-115" value="Immobilization and possible surgery for bone fracture" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="NPSr7LDMEiGMz0I1Zfry-112">
           <mxGeometry x="292" width="119" height="40" as="geometry">
             <mxRectangle width="119" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NPSr7LDMEiGMz0I1Zfry-168" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="NPSr7LDMEiGMz0I1Zfry-112">
+        <mxCell id="NPSr7LDMEiGMz0I1Zfry-168" value="metacam&amp;nbsp;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="NPSr7LDMEiGMz0I1Zfry-112">
           <mxGeometry x="411" width="131" height="40" as="geometry">
             <mxRectangle width="131" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -946,12 +946,12 @@
             <mxRectangle width="152" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NPSr7LDMEiGMz0I1Zfry-124" value="rodriguez" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="NPSr7LDMEiGMz0I1Zfry-121">
+        <mxCell id="NPSr7LDMEiGMz0I1Zfry-124" value="&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;Special shampoo and medications for allergic dermatitis&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="NPSr7LDMEiGMz0I1Zfry-121">
           <mxGeometry x="292" width="119" height="40" as="geometry">
             <mxRectangle width="119" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NPSr7LDMEiGMz0I1Zfry-170" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="NPSr7LDMEiGMz0I1Zfry-121">
+        <mxCell id="NPSr7LDMEiGMz0I1Zfry-170" value="prednisone" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="NPSr7LDMEiGMz0I1Zfry-121">
           <mxGeometry x="411" width="131" height="40" as="geometry">
             <mxRectangle width="131" height="40" as="alternateBounds" />
           </mxGeometry>
