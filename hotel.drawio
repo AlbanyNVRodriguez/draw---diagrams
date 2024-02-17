@@ -1,20 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2024-02-17T13:54:51.595Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0" etag="QEXB8tBCAyxSWh21wrFc" version="23.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-17T13:56:38.615Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0" etag="mwHHCELscAK-Tu7K5Co_" version="23.1.4" type="github">
   <diagram name="Página-1" id="9AUMjQT3tCxTY_urKVTj">
-    <mxGraphModel dx="1652" dy="874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2204" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="js0NvnDeoMedCHYEqulD-1" value="Huespedes" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="50" y="180" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="js0NvnDeoMedCHYEqulD-2" value="Reservas" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="260" y="180" width="100" height="40" as="geometry" />
+        <mxCell id="js0NvnDeoMedCHYEqulD-2" value="Reservaciones" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="370" y="180" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="js0NvnDeoMedCHYEqulD-3" value="Habitaciones" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="470" y="180" width="100" height="40" as="geometry" />
+          <mxGeometry x="670" y="180" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="js0NvnDeoMedCHYEqulD-4" value="Servicios" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="690" y="180" width="100" height="40" as="geometry" />
+          <mxGeometry x="-280" y="180" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="js0NvnDeoMedCHYEqulD-5" value="Huéspedes" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="40" y="340" width="859.9999999999998" height="190" as="geometry" />
