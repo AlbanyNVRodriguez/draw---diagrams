@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-07T22:12:09.379Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0" etag="E8ooIwk1RsX05K44JUqT" version="24.0.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-07T22:15:01.184Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0" etag="C6Hao8vKNahSmTJq94pp" version="24.0.1" type="github" pages="2">
   <diagram name="Página-1" id="tUPF4e2RrrEcx1_tIhFq">
     <mxGraphModel dx="4365" dy="2931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2526,7 +2526,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zL0lhiu0ES4w4U7c3h0q" name="Diagrama de flujo de datos DFD">
-    <mxGraphModel dx="1057" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1480" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2684,8 +2684,8 @@
         <mxCell id="w3YAdg_xyrP2K0XooJEY-43" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="490" y="910" width="440" height="345" as="geometry" />
         </mxCell>
-        <mxCell id="w3YAdg_xyrP2K0XooJEY-44" value="Numero&lt;div&gt;venta&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="w3YAdg_xyrP2K0XooJEY-43">
-          <mxGeometry x="350" y="305" width="70" height="40" as="geometry" />
+        <mxCell id="w3YAdg_xyrP2K0XooJEY-44" value="numero&lt;div&gt;venta&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="w3YAdg_xyrP2K0XooJEY-43">
+          <mxGeometry x="355" y="305" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="w3YAdg_xyrP2K0XooJEY-45" value="" style="group" vertex="1" connectable="0" parent="w3YAdg_xyrP2K0XooJEY-43">
           <mxGeometry width="440" height="305" as="geometry" />
