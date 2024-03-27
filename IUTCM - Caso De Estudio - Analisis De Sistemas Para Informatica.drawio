@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-27T15:18:27.164Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0" etag="5FWrzfO43Pkd323_u9OS" version="24.2.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-03-27T15:18:58.183Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0" etag="twhek_q6MYA0xCAUTuLo" version="24.2.0" type="github" pages="3">
   <diagram name="DFD" id="RoHcrioW4cpVPGeYBmwy">
     <mxGraphModel dx="740" dy="415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="t9wMUjP-SbSvY88gOsZW" name="ERD">
-    <mxGraphModel dx="428" dy="1401" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="505" dy="1442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -450,7 +450,7 @@
         <mxCell id="hej4wo_XFEEoFQRPaWnF-1" value="id_sede" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="860" y="-390" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hej4wo_XFEEoFQRPaWnF-2" value="monto" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=0;" parent="1" vertex="1">
+        <mxCell id="hej4wo_XFEEoFQRPaWnF-2" value="monto_pedido" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=0;" parent="1" vertex="1">
           <mxGeometry x="1000" y="-390" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="W7kfxLKFEqUZSHRCWeAl-1" value="desc_pedido" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=0;" parent="1" vertex="1">
@@ -555,7 +555,7 @@
         <mxCell id="1ZZZu2H9Y077XsMnAfgS-1" value="id_sede" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1590" y="-210" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1ZZZu2H9Y077XsMnAfgS-3" value="estado" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=0;" vertex="1" parent="1">
+        <mxCell id="1ZZZu2H9Y077XsMnAfgS-3" value="estado_pedido" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="820" y="-440" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
