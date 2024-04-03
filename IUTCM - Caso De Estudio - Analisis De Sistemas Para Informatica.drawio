@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-03T00:35:15.468Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0" etag="W5PJRGnxPL41Az3Qa6Hn" version="24.2.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-04-03T00:37:57.328Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0" etag="yvWskDDC3U35Ndlwi1dO" version="24.2.1" type="github" pages="4">
   <diagram name="DFD" id="RoHcrioW4cpVPGeYBmwy">
     <mxGraphModel dx="707" dy="382" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1389,15 +1389,15 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bPFcelNpXCz-M0ulosU8" name="Página-4">
-    <mxGraphModel dx="707" dy="382" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1178" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="JDEICOhjGuudF7g1tbYG-1" value="Administrador" style="whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="JDEICOhjGuudF7g1tbYG-1" value="Administrador" style="whiteSpace=wrap;html=1;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="280" y="140" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JDEICOhjGuudF7g1tbYG-2" value="Vendedor" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="520" y="50" width="100" height="40" as="geometry" />
+          <mxGeometry x="890" y="70" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JDEICOhjGuudF7g1tbYG-3" value="Repostero" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="750" y="70" width="100" height="40" as="geometry" />
@@ -1472,7 +1472,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JDEICOhjGuudF7g1tbYG-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="JDEICOhjGuudF7g1tbYG-16" target="JDEICOhjGuudF7g1tbYG-21">
+        <mxCell id="JDEICOhjGuudF7g1tbYG-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="JDEICOhjGuudF7g1tbYG-16" target="JDEICOhjGuudF7g1tbYG-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JDEICOhjGuudF7g1tbYG-16" value="Inventario de productos" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=0;" vertex="1" parent="1">
@@ -1495,13 +1495,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JDEICOhjGuudF7g1tbYG-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="JDEICOhjGuudF7g1tbYG-20" target="JDEICOhjGuudF7g1tbYG-25">
+        <mxCell id="JDEICOhjGuudF7g1tbYG-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="JDEICOhjGuudF7g1tbYG-20" target="JDEICOhjGuudF7g1tbYG-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JDEICOhjGuudF7g1tbYG-20" value="Inventario de materia prima" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="540" y="310" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JDEICOhjGuudF7g1tbYG-21" value="Reporte de productos" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=0;" vertex="1" parent="1">
+        <mxCell id="JDEICOhjGuudF7g1tbYG-21" value="vizualizacioin de productos" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="350" y="590" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JDEICOhjGuudF7g1tbYG-22" value="Registrar producto" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=0;" vertex="1" parent="1">
@@ -1513,8 +1513,41 @@
         <mxCell id="JDEICOhjGuudF7g1tbYG-24" value="Eliminar producto" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="540" y="520" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JDEICOhjGuudF7g1tbYG-25" value="Reporte de productos" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=0;" vertex="1" parent="1">
+        <mxCell id="JDEICOhjGuudF7g1tbYG-25" value="vizualizacioin&amp;nbsp;de productos" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="540" y="590" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JDEICOhjGuudF7g1tbYG-35" value="Gestion de compras" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="690" y="240" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JDEICOhjGuudF7g1tbYG-36" value="Registro de compras" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="310" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JDEICOhjGuudF7g1tbYG-37" value="Visualizacion de compras" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="380" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JDEICOhjGuudF7g1tbYG-38" value="Gestion de pedidos" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="850" y="240" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JDEICOhjGuudF7g1tbYG-39" value="Registro de pedidos" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="850" y="310" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JDEICOhjGuudF7g1tbYG-40" value="Retiro de pedidos" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="850" y="380" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JDEICOhjGuudF7g1tbYG-41" value="Visualizacion de pedidos" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="850" y="450" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JDEICOhjGuudF7g1tbYG-42" value="Gestion de inventarios" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="240" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JDEICOhjGuudF7g1tbYG-43" value="Inventario de productos" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="310" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JDEICOhjGuudF7g1tbYG-44" value="Reporte de productos" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="660" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JDEICOhjGuudF7g1tbYG-45" value="Reporte de productos" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="660" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
