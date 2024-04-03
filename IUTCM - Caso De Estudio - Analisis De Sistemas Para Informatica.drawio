@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-03T00:22:08.591Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0" etag="5R6zUH0wManLMgS2B82p" version="24.2.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-04-03T00:28:07.395Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0" etag="PBn6zyttpVaskPlQ1KS5" version="24.2.1" type="github" pages="4">
   <diagram name="DFD" id="RoHcrioW4cpVPGeYBmwy">
     <mxGraphModel dx="707" dy="382" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1389,24 +1389,63 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bPFcelNpXCz-M0ulosU8" name="Página-4">
-    <mxGraphModel dx="707" dy="382" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2595" dy="955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="JDEICOhjGuudF7g1tbYG-1" value="Administrador" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="170" y="150" width="100" height="40" as="geometry" />
+          <mxGeometry x="50" y="140" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JDEICOhjGuudF7g1tbYG-2" value="Vendedor" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="330" y="150" width="100" height="40" as="geometry" />
+          <mxGeometry x="520" y="50" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JDEICOhjGuudF7g1tbYG-3" value="Repostero" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="480" y="150" width="100" height="40" as="geometry" />
+          <mxGeometry x="750" y="70" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JDEICOhjGuudF7g1tbYG-4" value="Gestion de compras" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="240" width="100" height="40" as="geometry" />
+          <mxGeometry x="30" y="240" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JDEICOhjGuudF7g1tbYG-5" value="Gestion de pedidos" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="240" width="100" height="40" as="geometry" />
+          <mxGeometry x="570" y="240" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JDEICOhjGuudF7g1tbYG-6" value="Registro de compras" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JDEICOhjGuudF7g1tbYG-7" value="Visualizacion de compras" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JDEICOhjGuudF7g1tbYG-8" value="Reporte de compras" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JDEICOhjGuudF7g1tbYG-10" value="Registro de pedidos" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JDEICOhjGuudF7g1tbYG-11" value="Retiro de pedidos" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JDEICOhjGuudF7g1tbYG-12" value="Visualizacion de pedidos" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JDEICOhjGuudF7g1tbYG-13" value="Reporte de pedidos" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JDEICOhjGuudF7g1tbYG-14" value="Gestion de inventarios" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="240" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JDEICOhjGuudF7g1tbYG-16" value="Inventario de productos" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="950" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JDEICOhjGuudF7g1tbYG-17" value="Registrar producto" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="827" y="410" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JDEICOhjGuudF7g1tbYG-18" value="Editar producto" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="950" y="410" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JDEICOhjGuudF7g1tbYG-19" value="Eliminar producto" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="410" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JDEICOhjGuudF7g1tbYG-20" value="Inventario de materia prima" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="320" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
