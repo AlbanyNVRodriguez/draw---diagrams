@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-05T13:23:59.888Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0" etag="nrwskECWnWPOEP7tLux1" version="24.2.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-04-05T13:28:38.915Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0" etag="GtxwNpYjNWmYfq8x2t4o" version="24.2.1" type="github" pages="4">
   <diagram name="DFD" id="RoHcrioW4cpVPGeYBmwy">
-    <mxGraphModel dx="1534" dy="382" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1659" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,7 +17,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ASXuzu59rnZxiafEv02f-13" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;solicitud de retiro&lt;/span&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" parent="ASXuzu59rnZxiafEv02f-12" vertex="1" connectable="0">
+        <mxCell id="ASXuzu59rnZxiafEv02f-13" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;solicitud de retiro&lt;/span&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="ASXuzu59rnZxiafEv02f-12" vertex="1" connectable="0">
           <mxGeometry x="0.2599" relative="1" as="geometry">
             <mxPoint x="-19" y="-1" as="offset" />
           </mxGeometry>
@@ -40,7 +40,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ASXuzu59rnZxiafEv02f-8" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;datos personal&lt;/span&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" parent="ASXuzu59rnZxiafEv02f-7" vertex="1" connectable="0">
+        <mxCell id="ASXuzu59rnZxiafEv02f-8" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;datos personal&lt;/span&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="ASXuzu59rnZxiafEv02f-7" vertex="1" connectable="0">
           <mxGeometry x="-0.2705" y="-2" relative="1" as="geometry">
             <mxPoint x="68" as="offset" />
           </mxGeometry>
@@ -51,7 +51,7 @@
             <mxPoint x="276.55999999999995" y="403.28" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ASXuzu59rnZxiafEv02f-11" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;solicitud de compra/pedido&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ASXuzu59rnZxiafEv02f-10" vertex="1" connectable="0">
+        <mxCell id="ASXuzu59rnZxiafEv02f-11" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;solicitud de compra/pedido&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="ASXuzu59rnZxiafEv02f-10" vertex="1" connectable="0">
           <mxGeometry x="0.379" y="-2" relative="1" as="geometry">
             <mxPoint x="-14" as="offset" />
           </mxGeometry>
@@ -59,7 +59,7 @@
         <mxCell id="ASXuzu59rnZxiafEv02f-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.014;entryY=0.663;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="1" source="aNozaNHGua_LlA_LEWnn-2" target="aNozaNHGua_LlA_LEWnn-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ASXuzu59rnZxiafEv02f-18" value="&lt;span style=&quot;text-align: center;&quot;&gt;informacion de productos&lt;/span&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" parent="ASXuzu59rnZxiafEv02f-14" vertex="1" connectable="0">
+        <mxCell id="ASXuzu59rnZxiafEv02f-18" value="&lt;span style=&quot;text-align: center; font-size: 12px;&quot;&gt;informacion de productos&lt;/span&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="ASXuzu59rnZxiafEv02f-14" vertex="1" connectable="0">
           <mxGeometry x="0.4402" y="-2" relative="1" as="geometry">
             <mxPoint x="-180" y="-1" as="offset" />
           </mxGeometry>
@@ -72,7 +72,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ASXuzu59rnZxiafEv02f-17" value="producto solicitado" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" parent="ASXuzu59rnZxiafEv02f-15" vertex="1" connectable="0">
+        <mxCell id="ASXuzu59rnZxiafEv02f-17" value="producto solicitado" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="ASXuzu59rnZxiafEv02f-15" vertex="1" connectable="0">
           <mxGeometry x="-0.6579" relative="1" as="geometry">
             <mxPoint x="-24" as="offset" />
           </mxGeometry>
@@ -127,9 +127,9 @@
             <mxPoint x="-250" y="726" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kgxaXJ9LpuSL58q9xwO7-6" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;datos personal&lt;/span&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kgxaXJ9LpuSL58q9xwO7-5">
+        <mxCell id="kgxaXJ9LpuSL58q9xwO7-6" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;datos personal&lt;/span&gt;" style="edgeLabel;html=1;align=right;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="kgxaXJ9LpuSL58q9xwO7-5">
           <mxGeometry x="0.1328" y="-1" relative="1" as="geometry">
-            <mxPoint x="31" as="offset" />
+            <mxPoint x="107" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kgxaXJ9LpuSL58q9xwO7-2" value="&lt;div&gt;1&lt;/div&gt;Gestionar&amp;nbsp;&lt;div&gt;pedidos&lt;/div&gt;" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
@@ -147,9 +147,9 @@
             <mxPoint x="42" y="745" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kgxaXJ9LpuSL58q9xwO7-8" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;solicitud de pedido&lt;/span&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kgxaXJ9LpuSL58q9xwO7-7">
+        <mxCell id="kgxaXJ9LpuSL58q9xwO7-8" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;solicitud de pedido&lt;/span&gt;" style="edgeLabel;html=1;align=right;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="kgxaXJ9LpuSL58q9xwO7-7">
           <mxGeometry x="0.1328" y="-1" relative="1" as="geometry">
-            <mxPoint x="31" as="offset" />
+            <mxPoint x="131" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kgxaXJ9LpuSL58q9xwO7-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1">
@@ -158,9 +158,9 @@
             <mxPoint x="40" y="764.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kgxaXJ9LpuSL58q9xwO7-10" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;solicitud de retiro&lt;/span&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kgxaXJ9LpuSL58q9xwO7-9">
+        <mxCell id="kgxaXJ9LpuSL58q9xwO7-10" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;solicitud de retiro&lt;/span&gt;" style="edgeLabel;html=1;align=right;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="kgxaXJ9LpuSL58q9xwO7-9">
           <mxGeometry x="0.1328" y="-1" relative="1" as="geometry">
-            <mxPoint x="41" as="offset" />
+            <mxPoint x="131" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kgxaXJ9LpuSL58q9xwO7-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1">
@@ -169,7 +169,62 @@
             <mxPoint x="40" y="780.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kgxaXJ9LpuSL58q9xwO7-12" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;producto solicitado&lt;/span&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kgxaXJ9LpuSL58q9xwO7-11">
+        <mxCell id="kgxaXJ9LpuSL58q9xwO7-12" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;producto solicitado&lt;/span&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="kgxaXJ9LpuSL58q9xwO7-11">
+          <mxGeometry x="0.1328" y="-1" relative="1" as="geometry">
+            <mxPoint x="-99" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kgxaXJ9LpuSL58q9xwO7-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-270" y="890" as="targetPoint" />
+            <mxPoint x="46" y="890" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kgxaXJ9LpuSL58q9xwO7-14" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;datos personal&lt;/span&gt;" style="edgeLabel;html=1;align=right;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="kgxaXJ9LpuSL58q9xwO7-13">
+          <mxGeometry x="0.1328" y="-1" relative="1" as="geometry">
+            <mxPoint x="121" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kgxaXJ9LpuSL58q9xwO7-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-266" y="909.41" as="targetPoint" />
+            <mxPoint x="40" y="909.41" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kgxaXJ9LpuSL58q9xwO7-16" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;solicitud de compra&lt;/span&gt;" style="edgeLabel;html=1;align=right;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="kgxaXJ9LpuSL58q9xwO7-15">
+          <mxGeometry x="0.1328" y="-1" relative="1" as="geometry">
+            <mxPoint x="126" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kgxaXJ9LpuSL58q9xwO7-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-266" y="927" as="targetPoint" />
+            <mxPoint x="40" y="927" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kgxaXJ9LpuSL58q9xwO7-18" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;solicitud de pedido&lt;/span&gt;" style="edgeLabel;html=1;align=right;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kgxaXJ9LpuSL58q9xwO7-17">
+          <mxGeometry x="0.1328" y="-1" relative="1" as="geometry">
+            <mxPoint x="121" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kgxaXJ9LpuSL58q9xwO7-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-270" y="945" as="targetPoint" />
+            <mxPoint x="48" y="945" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kgxaXJ9LpuSL58q9xwO7-20" value="&lt;span style=&quot;text-align: center;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;informacion de productos&lt;/font&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kgxaXJ9LpuSL58q9xwO7-19">
+          <mxGeometry x="0.1328" y="-1" relative="1" as="geometry">
+            <mxPoint x="-99" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kgxaXJ9LpuSL58q9xwO7-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-270" y="961" as="targetPoint" />
+            <mxPoint x="66" y="961" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kgxaXJ9LpuSL58q9xwO7-22" value="producto solicitado" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="kgxaXJ9LpuSL58q9xwO7-21">
           <mxGeometry x="0.1328" y="-1" relative="1" as="geometry">
             <mxPoint x="-99" as="offset" />
           </mxGeometry>
