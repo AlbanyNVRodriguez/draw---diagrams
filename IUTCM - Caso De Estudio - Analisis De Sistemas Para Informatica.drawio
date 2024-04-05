@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-05T13:11:22.413Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0" etag="dGjpzO9DPxp9vafne1QV" version="24.2.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-04-05T13:16:42.203Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0" etag="Tv72QoxAOubu1mWVLMmB" version="24.2.1" type="github" pages="4">
   <diagram name="DFD" id="RoHcrioW4cpVPGeYBmwy">
     <mxGraphModel dx="1837" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -119,8 +119,17 @@
             <mxPoint x="-11" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C0YSdgT8J2CniD9Htyzj-4" value="Nivel 1: Diagrama 0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="C0YSdgT8J2CniD9Htyzj-4" value="Nivel 1: Diagrama 0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="220" y="610" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kgxaXJ9LpuSL58q9xwO7-2" value="&lt;div&gt;1&lt;/div&gt;Gestionar&amp;nbsp;&lt;div&gt;pedidos&lt;/div&gt;" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="40" y="710" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="kgxaXJ9LpuSL58q9xwO7-3" value="&lt;div&gt;2&lt;/div&gt;Gestionar&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;compras&lt;/span&gt;&lt;/div&gt;" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="40" y="860" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="kgxaXJ9LpuSL58q9xwO7-4" value="&lt;div&gt;3&lt;/div&gt;Gestionar&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;inventarios&lt;/span&gt;&lt;/div&gt;" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="440" y="710" width="110" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
