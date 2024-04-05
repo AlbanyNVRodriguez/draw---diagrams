@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-05T14:07:25.529Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0" etag="bcTYkCC41UeYfPK3t1SY" version="24.2.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-04-05T14:10:18.316Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0" etag="PVn8JRpoaixB4qiv5cZc" version="24.2.2" type="github" pages="4">
   <diagram name="DFD" id="RoHcrioW4cpVPGeYBmwy">
     <mxGraphModel dx="1837" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -132,11 +132,49 @@
             <mxPoint x="107" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="stX6e2_wSXPLfjuGgp6q-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kgxaXJ9LpuSL58q9xwO7-2" target="kgxaXJ9LpuSL58q9xwO7-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="354" y="726" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="kgxaXJ9LpuSL58q9xwO7-2" value="&lt;div&gt;1&lt;/div&gt;Gestionar&amp;nbsp;&lt;div&gt;pedidos&lt;/div&gt;" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" parent="1" vertex="1">
           <mxGeometry x="40" y="710" width="110" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="stX6e2_wSXPLfjuGgp6q-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="kgxaXJ9LpuSL58q9xwO7-3" target="kgxaXJ9LpuSL58q9xwO7-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="354" y="954" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="stX6e2_wSXPLfjuGgp6q-8" value="solicitud de productos" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="stX6e2_wSXPLfjuGgp6q-6">
+          <mxGeometry x="0.6802" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="kgxaXJ9LpuSL58q9xwO7-3" value="&lt;div&gt;2&lt;/div&gt;Gestionar&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;compras&lt;/span&gt;&lt;/div&gt;" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" parent="1" vertex="1">
           <mxGeometry x="40" y="860" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="stX6e2_wSXPLfjuGgp6q-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="kgxaXJ9LpuSL58q9xwO7-4" target="kgxaXJ9LpuSL58q9xwO7-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="276" y="804" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="stX6e2_wSXPLfjuGgp6q-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kgxaXJ9LpuSL58q9xwO7-4" target="kgxaXJ9LpuSL58q9xwO7-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="134" y="864" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="stX6e2_wSXPLfjuGgp6q-9" value="informacion" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="stX6e2_wSXPLfjuGgp6q-7">
+          <mxGeometry x="-0.1992" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="kgxaXJ9LpuSL58q9xwO7-4" value="&lt;div&gt;3&lt;/div&gt;Gestionar&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;inventarios&lt;/span&gt;&lt;/div&gt;" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" parent="1" vertex="1">
           <mxGeometry x="260" y="770" width="110" height="110" as="geometry" />
