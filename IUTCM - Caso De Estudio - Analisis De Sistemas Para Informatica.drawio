@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-08T20:39:08.604Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0" etag="HDVA5FO0jCrh-o9CYcPV" version="24.2.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-04-08T21:07:36.631Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0" etag="Ybc9-HCGV5qH7JN7O8qm" version="24.2.2" type="github" pages="4">
   <diagram name="DFD" id="RoHcrioW4cpVPGeYBmwy">
     <mxGraphModel dx="2060" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -464,8 +464,21 @@
         <mxCell id="_01-slTul48VU5weQJHe-44" value="Clientes" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="1510" width="94" height="31" as="geometry" />
         </mxCell>
+        <mxCell id="_01-slTul48VU5weQJHe-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_01-slTul48VU5weQJHe-45" target="_01-slTul48VU5weQJHe-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="995" y="1400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_01-slTul48VU5weQJHe-50" value="Informacion administrativa" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-90;" vertex="1" connectable="0" parent="_01-slTul48VU5weQJHe-49">
+          <mxGeometry x="-0.1555" y="3" relative="1" as="geometry">
+            <mxPoint x="-3" y="-29" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_01-slTul48VU5weQJHe-45" value="Usuario" style="html=1;dashed=0;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="940" y="1090" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_01-slTul48VU5weQJHe-48" value="&lt;div&gt;4.0&lt;/div&gt;Gestionar&amp;nbsp;&lt;div&gt;informacion&lt;/div&gt;" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="720" y="1340" width="110" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
