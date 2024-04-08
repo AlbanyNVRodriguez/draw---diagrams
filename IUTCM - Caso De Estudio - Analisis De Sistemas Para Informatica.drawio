@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-08T22:33:46.844Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0" etag="hqwQD6jzpNz1Hg3Ocjcd" version="24.2.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-04-08T22:35:01.132Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0" etag="uV2A0Co9_445Zx0n4o79" version="24.2.2" type="github" pages="4">
   <diagram name="DFD" id="RoHcrioW4cpVPGeYBmwy">
     <mxGraphModel dx="1965" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -267,7 +267,7 @@
             <mxPoint x="495" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_01-slTul48VU5weQJHe-26" value="Solicitud de informacion" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_01-slTul48VU5weQJHe-25">
+        <mxCell id="_01-slTul48VU5weQJHe-26" value="Solicitud de prodcuto" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_01-slTul48VU5weQJHe-25">
           <mxGeometry x="-0.1192" relative="1" as="geometry">
             <mxPoint x="-33" y="-1" as="offset" />
           </mxGeometry>
@@ -414,7 +414,7 @@
             <mxPoint x="-140" y="1538" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_01-slTul48VU5weQJHe-81" value="Solicitud de informacion" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_01-slTul48VU5weQJHe-80">
+        <mxCell id="_01-slTul48VU5weQJHe-81" value="Solicitud de producto" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_01-slTul48VU5weQJHe-80">
           <mxGeometry x="-0.1192" relative="1" as="geometry">
             <mxPoint x="-33" as="offset" />
           </mxGeometry>
