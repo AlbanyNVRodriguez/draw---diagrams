@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-08T21:22:29.211Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0" etag="ap7dH3Vht3ydoi3Ag-mP" version="24.2.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-04-08T21:22:53.258Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0" etag="2RoQ_PngJ5ZMwhyBe8xG" version="24.2.2" type="github" pages="4">
   <diagram name="DFD" id="RoHcrioW4cpVPGeYBmwy">
     <mxGraphModel dx="1884" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -496,7 +496,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_01-slTul48VU5weQJHe-53" value="Inventario_productos" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;" vertex="1" parent="1">
-          <mxGeometry x="690" y="1030" width="130" height="30" as="geometry" />
+          <mxGeometry x="680" y="960" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
