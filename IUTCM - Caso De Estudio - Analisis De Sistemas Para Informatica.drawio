@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-08T22:19:04.820Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0" etag="Q1lXJO22_GmUEyg7AEYm" version="24.2.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-04-08T22:21:30.169Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0" etag="pWNRrRpORoi9hYee9NVg" version="24.2.2" type="github" pages="4">
   <diagram name="DFD" id="RoHcrioW4cpVPGeYBmwy">
-    <mxGraphModel dx="2941" dy="1186" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2060" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -336,6 +336,32 @@
         <mxCell id="_01-slTul48VU5weQJHe-61" value="registrar producto" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_01-slTul48VU5weQJHe-59">
           <mxGeometry x="0.3192" y="1" relative="1" as="geometry">
             <mxPoint x="48" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_01-slTul48VU5weQJHe-63" value="Nivel 1.0: Verificar pedido" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="185" y="1433" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_01-slTul48VU5weQJHe-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.636;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_01-slTul48VU5weQJHe-66">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="159" y="1565" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_01-slTul48VU5weQJHe-65" value="Datos personales" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_01-slTul48VU5weQJHe-64">
+          <mxGeometry x="0.0713" relative="1" as="geometry">
+            <mxPoint x="-44" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_01-slTul48VU5weQJHe-66" value="Cliente" style="html=1;dashed=0;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="1520" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_01-slTul48VU5weQJHe-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.364;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_01-slTul48VU5weQJHe-66">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="159" y="1535" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_01-slTul48VU5weQJHe-68" value="Pedido" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_01-slTul48VU5weQJHe-67">
+          <mxGeometry x="-0.1192" relative="1" as="geometry">
+            <mxPoint x="-23" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
