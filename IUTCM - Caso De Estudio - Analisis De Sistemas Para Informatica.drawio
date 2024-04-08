@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-08T22:44:12.623Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0" etag="1K0Bl1E6Pw0cffPlYwsl" version="24.2.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-04-08T22:44:44.820Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0" etag="4ooJKaLOe0RBs1vTRf0G" version="24.2.2" type="github" pages="4">
   <diagram name="DFD" id="RoHcrioW4cpVPGeYBmwy">
     <mxGraphModel dx="1752" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -201,7 +201,7 @@
             <mxPoint x="305" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_01-slTul48VU5weQJHe-32" value="Requisito de producto" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_01-slTul48VU5weQJHe-31">
+        <mxCell id="_01-slTul48VU5weQJHe-32" value="Requisito de pedido" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_01-slTul48VU5weQJHe-31">
           <mxGeometry x="-0.1782" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
