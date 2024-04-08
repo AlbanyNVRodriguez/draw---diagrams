@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-08T21:22:53.258Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0" etag="2RoQ_PngJ5ZMwhyBe8xG" version="24.2.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-04-08T21:34:59.718Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0" etag="RIVUPskEBP3U91Zd06tH" version="24.2.2" type="github" pages="4">
   <diagram name="DFD" id="RoHcrioW4cpVPGeYBmwy">
-    <mxGraphModel dx="1884" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1444" dy="346" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -415,8 +415,18 @@
         </mxCell>
         <mxCell id="_01-slTul48VU5weQJHe-54" value="Datos de inventario" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=90;" vertex="1" connectable="0" parent="_01-slTul48VU5weQJHe-52">
           <mxGeometry x="0.2304" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="2" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_01-slTul48VU5weQJHe-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.68;exitY=0.022;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="_01-slTul48VU5weQJHe-5" target="_01-slTul48VU5weQJHe-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="655" y="990" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_01-slTul48VU5weQJHe-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="_01-slTul48VU5weQJHe-5" target="_01-slTul48VU5weQJHe-57">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_01-slTul48VU5weQJHe-5" value="&lt;div&gt;4.0&lt;/div&gt;Gestionar&amp;nbsp;&lt;div&gt;productos&lt;/div&gt;" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
           <mxGeometry x="580" y="1065" width="110" height="110" as="geometry" />
@@ -496,7 +506,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_01-slTul48VU5weQJHe-53" value="Inventario_productos" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;" vertex="1" parent="1">
-          <mxGeometry x="680" y="960" width="130" height="30" as="geometry" />
+          <mxGeometry x="590" y="960" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_01-slTul48VU5weQJHe-57" value="Inventario_materiaPrima" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;" vertex="1" parent="1">
+          <mxGeometry x="697" y="1000" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
