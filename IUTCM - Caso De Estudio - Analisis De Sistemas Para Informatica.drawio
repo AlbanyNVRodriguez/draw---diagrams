@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T13:09:15.550Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0" etag="5LNshSNX5hdY0FSjGGwA" version="24.2.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-04-09T13:23:10.571Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0" etag="ms4nYQYswVJuuwsIzFaT" version="24.2.2" type="github" pages="4">
   <diagram name="DFD" id="RoHcrioW4cpVPGeYBmwy">
     <mxGraphModel dx="1659" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -455,8 +455,8 @@
         <mxCell id="_01-slTul48VU5weQJHe-93" value="Pedidos" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;" parent="1" vertex="1">
           <mxGeometry x="452.5" y="1650" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_01-slTul48VU5weQJHe-99" value="Nivel 3.0: Gestionar pedido" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="1340" y="1400" width="310" height="40" as="geometry" />
+        <mxCell id="_01-slTul48VU5weQJHe-99" value="Nivel 3.0: Gestionar compra" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="1335" y="1400" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_01-slTul48VU5weQJHe-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
