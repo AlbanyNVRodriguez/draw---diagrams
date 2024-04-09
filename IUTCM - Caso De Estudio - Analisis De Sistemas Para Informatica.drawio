@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T13:05:24.043Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0" etag="dRhiJS7HLevBxrbmEBJq" version="24.2.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-04-09T13:09:01.224Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0" etag="7zMGmX_8q5m4spnbjela" version="24.2.2" type="github" pages="4">
   <diagram name="DFD" id="RoHcrioW4cpVPGeYBmwy">
-    <mxGraphModel dx="1393" dy="306" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1659" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -525,16 +525,20 @@
         <mxCell id="Y9ipzicmU9tYCyjamKN_-6" value="&lt;div&gt;3.2&lt;/div&gt;Registrar&amp;nbsp;&lt;div&gt;compra&lt;/div&gt;" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
           <mxGeometry x="1440" y="1494" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Y9ipzicmU9tYCyjamKN_-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y9ipzicmU9tYCyjamKN_-7" target="Y9ipzicmU9tYCyjamKN_-28">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Y9ipzicmU9tYCyjamKN_-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Y9ipzicmU9tYCyjamKN_-7" target="Y9ipzicmU9tYCyjamKN_-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1445" y="1705" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="Y9ipzicmU9tYCyjamKN_-30" value="Datos de las compras" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=90;" vertex="1" connectable="0" parent="Y9ipzicmU9tYCyjamKN_-29">
+        <mxCell id="Y9ipzicmU9tYCyjamKN_-30" value="Compras" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;" vertex="1" connectable="0" parent="Y9ipzicmU9tYCyjamKN_-29">
           <mxGeometry x="-0.206" relative="1" as="geometry">
-            <mxPoint x="1" y="8" as="offset" />
+            <mxPoint x="-5" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Y9ipzicmU9tYCyjamKN_-7" value="Compras" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;" vertex="1" parent="1">
-          <mxGeometry x="1445" y="1650" width="100" height="30" as="geometry" />
+          <mxGeometry x="1445" y="1691" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Y9ipzicmU9tYCyjamKN_-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Y9ipzicmU9tYCyjamKN_-10">
           <mxGeometry relative="1" as="geometry">
@@ -588,7 +592,7 @@
           <mxGeometry x="1710" y="1680" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Y9ipzicmU9tYCyjamKN_-16" value="Clientes" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;" vertex="1" parent="1">
-          <mxGeometry x="1715" y="1840" width="100" height="30" as="geometry" />
+          <mxGeometry x="1715" y="1820" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Y9ipzicmU9tYCyjamKN_-24" value="Nivel 4.0: Gestionar pedido" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-625" y="1910" width="310" height="40" as="geometry" />
@@ -608,8 +612,22 @@
             <mxPoint x="4" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Y9ipzicmU9tYCyjamKN_-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y9ipzicmU9tYCyjamKN_-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1500" y="1830" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1225" y="1830" />
+              <mxPoint x="1491" y="1830" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y9ipzicmU9tYCyjamKN_-34" value="Datos de compras" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Y9ipzicmU9tYCyjamKN_-33">
+          <mxGeometry x="0.0959" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Y9ipzicmU9tYCyjamKN_-28" value="&lt;div&gt;3.5&lt;/div&gt;Enviar&lt;div&gt;reporte&lt;/div&gt;" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="1830" width="110" height="110" as="geometry" />
+          <mxGeometry x="1170" y="1650" width="110" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
