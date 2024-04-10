@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-10T13:38:49.606Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0" etag="s342NYxaFoas44Ca5-5M" version="24.2.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-04-10T13:39:16.073Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0" etag="0GuIA4_z44ZMe6YKmjhc" version="24.2.3" type="github" pages="4">
   <diagram name="DFD" id="RoHcrioW4cpVPGeYBmwy">
-    <mxGraphModel dx="2517" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1503" dy="306" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -231,7 +231,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_01-slTul48VU5weQJHe-60" value="Producto buscado" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_01-slTul48VU5weQJHe-56" vertex="1" connectable="0">
+        <mxCell id="_01-slTul48VU5weQJHe-60" value="Registros" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_01-slTul48VU5weQJHe-56" vertex="1" connectable="0">
           <mxGeometry x="0.3358" relative="1" as="geometry">
             <mxPoint x="-40" as="offset" />
           </mxGeometry>
