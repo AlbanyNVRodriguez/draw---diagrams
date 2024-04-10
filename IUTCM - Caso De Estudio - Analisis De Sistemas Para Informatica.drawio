@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-10T12:38:25.467Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0" etag="3Ps8GGAMYEHsOeLqiwvC" version="24.2.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-04-10T12:41:05.843Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0" etag="e7JT2YCT8kTo0zBXCx1W" version="24.2.3" type="github" pages="4">
   <diagram name="DFD" id="RoHcrioW4cpVPGeYBmwy">
-    <mxGraphModel dx="1659" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1837" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -460,14 +460,14 @@
         </mxCell>
         <mxCell id="_01-slTul48VU5weQJHe-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1101" y="1548.6" as="sourcePoint" />
-            <mxPoint x="1170" y="1548.6" as="targetPoint" />
+            <mxPoint x="1116" y="1509.6" as="sourcePoint" />
+            <mxPoint x="1185" y="1509.6" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1019.89" y="1548.3" />
+              <mxPoint x="1034.8899999999999" y="1509.3" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_01-slTul48VU5weQJHe-101" value="Solicitud de compra" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_01-slTul48VU5weQJHe-100" vertex="1" connectable="0">
+        <mxCell id="_01-slTul48VU5weQJHe-101" value="Pedido creado" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_01-slTul48VU5weQJHe-100" vertex="1" connectable="0">
           <mxGeometry x="-0.158" y="-1" relative="1" as="geometry">
             <mxPoint x="54" y="-1" as="offset" />
           </mxGeometry>
@@ -634,6 +634,20 @@
         </mxCell>
         <mxCell id="Y9ipzicmU9tYCyjamKN_-42" value="&lt;div&gt;4.1&lt;/div&gt;Registrar&lt;div&gt;producto&lt;/div&gt;" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" parent="1" vertex="1">
           <mxGeometry x="-361" y="1980" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="nTF7A6v9K7WqKivZR524-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1117.08" y="1588.02" as="sourcePoint" />
+            <mxPoint x="1186.08" y="1588.02" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1035.97" y="1587.72" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nTF7A6v9K7WqKivZR524-8" value="Solicitud de compra" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nTF7A6v9K7WqKivZR524-7">
+          <mxGeometry x="-0.158" y="-1" relative="1" as="geometry">
+            <mxPoint x="54" y="-1" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
