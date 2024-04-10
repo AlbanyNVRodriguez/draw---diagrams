@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-10T13:33:04.340Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0" etag="tRi8voGieXxIuYrMsZ4B" version="24.2.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-04-10T13:33:45.436Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0" etag="4gVLRvst54AZXFJo5o-m" version="24.2.3" type="github" pages="4">
   <diagram name="DFD" id="RoHcrioW4cpVPGeYBmwy">
     <mxGraphModel dx="1821" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -69,7 +69,7 @@
         <mxCell id="ASXuzu59rnZxiafEv02f-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.993;entryY=0.419;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="aNozaNHGua_LlA_LEWnn-3" target="aNozaNHGua_LlA_LEWnn-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ASXuzu59rnZxiafEv02f-33" value="&lt;span style=&quot;font-size: 12px; text-align: left; background-color: rgb(251, 251, 251);&quot;&gt;Ingresan materia prima&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ASXuzu59rnZxiafEv02f-27" vertex="1" connectable="0">
+        <mxCell id="ASXuzu59rnZxiafEv02f-33" value="&lt;span style=&quot;font-size: 12px; text-align: left; background-color: rgb(251, 251, 251);&quot;&gt;Ingresa materia prima&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ASXuzu59rnZxiafEv02f-27" vertex="1" connectable="0">
           <mxGeometry x="0.3883" y="1" relative="1" as="geometry">
             <mxPoint x="30" as="offset" />
           </mxGeometry>
@@ -90,7 +90,7 @@
             <mxPoint x="-15" y="875" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_01-slTul48VU5weQJHe-10" value="Datos personales" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" parent="_01-slTul48VU5weQJHe-9" vertex="1" connectable="0">
+        <mxCell id="_01-slTul48VU5weQJHe-10" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;Información personal&lt;/span&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" parent="_01-slTul48VU5weQJHe-9" vertex="1" connectable="0">
           <mxGeometry x="0.0713" relative="1" as="geometry">
             <mxPoint x="-44" as="offset" />
           </mxGeometry>
@@ -209,7 +209,7 @@
         <mxCell id="_01-slTul48VU5weQJHe-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="1" source="_01-slTul48VU5weQJHe-5" target="_01-slTul48VU5weQJHe-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_01-slTul48VU5weQJHe-47" value="&lt;span style=&quot;font-size: 12px; text-align: left; background-color: rgb(251, 251, 251);&quot;&gt;datos de productos&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_01-slTul48VU5weQJHe-46" vertex="1" connectable="0">
+        <mxCell id="_01-slTul48VU5weQJHe-47" value="&lt;span style=&quot;font-size: 12px; text-align: left; background-color: rgb(251, 251, 251);&quot;&gt;Ingresa materia prima&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_01-slTul48VU5weQJHe-46" vertex="1" connectable="0">
           <mxGeometry x="0.0842" y="4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
