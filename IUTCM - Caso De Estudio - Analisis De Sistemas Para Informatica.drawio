@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-10T12:50:54.483Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0" etag="kxJDo4mkJ0cwgeum7puK" version="24.2.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-04-10T12:54:19.769Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0" etag="6jAIo-1ihgaTDiZIOHiE" version="24.2.3" type="github" pages="4">
   <diagram name="DFD" id="RoHcrioW4cpVPGeYBmwy">
-    <mxGraphModel dx="1837" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2112" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -649,6 +649,14 @@
         <mxCell id="Y9ipzicmU9tYCyjamKN_-35" value="&lt;div&gt;4.1&lt;/div&gt;Enviar&lt;div&gt;reporte&lt;/div&gt;" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" parent="1" vertex="1">
           <mxGeometry x="-220" y="2130" width="110" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="nTF7A6v9K7WqKivZR524-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y9ipzicmU9tYCyjamKN_-36" target="nTF7A6v9K7WqKivZR524-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nTF7A6v9K7WqKivZR524-22" value="registros" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=90;" vertex="1" connectable="0" parent="nTF7A6v9K7WqKivZR524-17">
+          <mxGeometry x="-0.1278" relative="1" as="geometry">
+            <mxPoint x="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Y9ipzicmU9tYCyjamKN_-36" value="inventario_productos" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;" parent="1" vertex="1">
           <mxGeometry x="-655" y="2220" width="100" height="30" as="geometry" />
         </mxCell>
@@ -670,8 +678,38 @@
             <mxPoint x="7" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nTF7A6v9K7WqKivZR524-16" value="&lt;div&gt;4.1&lt;/div&gt;Enviar&lt;div&gt;reporte&lt;/div&gt;" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
-          <mxGeometry x="-525" y="2290" width="110" height="110" as="geometry" />
+        <mxCell id="nTF7A6v9K7WqKivZR524-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="nTF7A6v9K7WqKivZR524-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-644" y="2570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nTF7A6v9K7WqKivZR524-20" value="informacion de producto" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=90;" vertex="1" connectable="0" parent="nTF7A6v9K7WqKivZR524-18">
+          <mxGeometry x="-0.3373" relative="1" as="geometry">
+            <mxPoint x="2" y="25" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nTF7A6v9K7WqKivZR524-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="nTF7A6v9K7WqKivZR524-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-566" y="2570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nTF7A6v9K7WqKivZR524-21" value="Producto" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=90;" vertex="1" connectable="0" parent="nTF7A6v9K7WqKivZR524-19">
+          <mxGeometry x="-0.089" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nTF7A6v9K7WqKivZR524-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="nTF7A6v9K7WqKivZR524-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-810" y="2374.8181818181815" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nTF7A6v9K7WqKivZR524-24" value="&lt;span style=&quot;text-align: left;&quot;&gt;Solicitud de producto&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nTF7A6v9K7WqKivZR524-23">
+          <mxGeometry x="0.3493" y="-2" relative="1" as="geometry">
+            <mxPoint x="14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nTF7A6v9K7WqKivZR524-16" value="&lt;div&gt;4.1&lt;/div&gt;Buscar&lt;div&gt;producto&lt;/div&gt;" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="-660" y="2320" width="110" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
