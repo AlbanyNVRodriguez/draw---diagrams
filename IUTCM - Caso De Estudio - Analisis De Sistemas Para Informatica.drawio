@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-12T14:45:47.666Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0" etag="9EiUDZpCieJfStNwaOXy" version="24.2.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-04-12T14:47:47.414Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0" etag="J2mdgVq5Joa0kk1Ab5aI" version="24.2.3" type="github" pages="4">
   <diagram name="DFD" id="RoHcrioW4cpVPGeYBmwy">
-    <mxGraphModel dx="1698" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1567" dy="415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -754,6 +754,44 @@
         </mxCell>
         <mxCell id="tBsbikwfqLEC2E3OU-BM-11" value="inventario_productos" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;" vertex="1" parent="1">
           <mxGeometry y="2260" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tBsbikwfqLEC2E3OU-BM-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tBsbikwfqLEC2E3OU-BM-12" target="_01-slTul48VU5weQJHe-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="1145" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tBsbikwfqLEC2E3OU-BM-12" value="Compras" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1241" width="94" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="tBsbikwfqLEC2E3OU-BM-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="tBsbikwfqLEC2E3OU-BM-13" target="_01-slTul48VU5weQJHe-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tBsbikwfqLEC2E3OU-BM-13" value="Pedidos" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;" vertex="1" parent="1">
+          <mxGeometry x="521" y="1241" width="94" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="tBsbikwfqLEC2E3OU-BM-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="tBsbikwfqLEC2E3OU-BM-14" target="_01-slTul48VU5weQJHe-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tBsbikwfqLEC2E3OU-BM-14" value="Inventario_productos" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;" vertex="1" parent="1">
+          <mxGeometry x="669" y="1241" width="94" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="tBsbikwfqLEC2E3OU-BM-15" value="Inventario_materiaPrima" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1241" width="94" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="tBsbikwfqLEC2E3OU-BM-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="tBsbikwfqLEC2E3OU-BM-16" target="_01-slTul48VU5weQJHe-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tBsbikwfqLEC2E3OU-BM-16" value="Clientes" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;" vertex="1" parent="1">
+          <mxGeometry x="598" y="1300" width="94" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="tBsbikwfqLEC2E3OU-BM-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.585;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tBsbikwfqLEC2E3OU-BM-15" target="_01-slTul48VU5weQJHe-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="840" y="1154" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
