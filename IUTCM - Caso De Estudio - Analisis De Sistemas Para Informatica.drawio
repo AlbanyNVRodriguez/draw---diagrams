@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-12T16:56:50.486Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0" etag="j7mC5EEjn2_zAPKWsZwa" version="24.2.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-04-12T17:56:50.720Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0" etag="-qOHY6Jt-RP9evsyxwdH" version="24.2.3" type="github" pages="4">
   <diagram name="DFD" id="RoHcrioW4cpVPGeYBmwy">
     <mxGraphModel dx="1567" dy="415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -265,7 +265,7 @@
             <mxPoint x="495" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_01-slTul48VU5weQJHe-26" value="Solicitud de prodcuto" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" parent="_01-slTul48VU5weQJHe-25" vertex="1" connectable="0">
+        <mxCell id="_01-slTul48VU5weQJHe-26" value="Solicitud de producto" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" parent="_01-slTul48VU5weQJHe-25" vertex="1" connectable="0">
           <mxGeometry x="-0.1192" relative="1" as="geometry">
             <mxPoint x="-33" y="-1" as="offset" />
           </mxGeometry>
@@ -818,11 +818,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="t9wMUjP-SbSvY88gOsZW" name="ERD">
-    <mxGraphModel dx="2241" dy="3102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1567" dy="2753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="WJrIaEAeB0rzanmLSIEV-1" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="WJrIaEAeB0rzanmLSIEV-1" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-370" y="-1710" width="1543" height="910" as="geometry" />
         </mxCell>
         <mxCell id="kxRSe2GMeEUUu8IbytqN-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="WJrIaEAeB0rzanmLSIEV-1" source="kxRSe2GMeEUUu8IbytqN-1" target="dfiBGnK9hYnzI3vNDTBU-3" edge="1">
@@ -1393,7 +1393,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_Hc7avuu3qVlDisQDzcW" name="RD">
-    <mxGraphModel dx="705" dy="1564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="779" dy="1606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
