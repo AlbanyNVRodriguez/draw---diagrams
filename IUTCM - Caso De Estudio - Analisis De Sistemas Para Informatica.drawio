@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-12T18:12:00.207Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0" etag="fD14VxlxFH6p0yMit8b4" version="24.2.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-04-12T18:28:54.673Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0" etag="GFtAD5q7Jy8kE4v-itui" version="24.2.3" type="github" pages="4">
   <diagram name="DFD" id="RoHcrioW4cpVPGeYBmwy">
-    <mxGraphModel dx="1567" dy="415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1814" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -216,7 +216,7 @@
             <mxPoint x="305" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_01-slTul48VU5weQJHe-32" value="Requisitos del pedido" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_01-slTul48VU5weQJHe-31" vertex="1" connectable="0">
+        <mxCell id="_01-slTul48VU5weQJHe-32" value="producto del pedido" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_01-slTul48VU5weQJHe-31" vertex="1" connectable="0">
           <mxGeometry x="-0.1782" y="-3" relative="1" as="geometry">
             <mxPoint y="2" as="offset" />
           </mxGeometry>
@@ -447,6 +447,11 @@
             <mxPoint x="502.5" y="1710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="2HksRMaq2kLhdH9IXAZF-2" value="datos del pedido" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=90;" vertex="1" connectable="0" parent="_01-slTul48VU5weQJHe-92">
+          <mxGeometry x="-0.2013" y="-2" relative="1" as="geometry">
+            <mxPoint x="3" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_01-slTul48VU5weQJHe-89" value="&lt;div&gt;2.2&lt;/div&gt;Registrar&amp;nbsp;&lt;div&gt;pedido&lt;/div&gt;" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" parent="1" vertex="1">
           <mxGeometry x="447.5" y="1494" width="110" height="110" as="geometry" />
         </mxCell>
@@ -491,7 +496,7 @@
             <mxPoint x="256" y="1598" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y9ipzicmU9tYCyjamKN_-2" value="Requisitos del pedido" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;" parent="Y9ipzicmU9tYCyjamKN_-1" vertex="1" connectable="0">
+        <mxCell id="Y9ipzicmU9tYCyjamKN_-2" value="producto del pedido" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;" parent="Y9ipzicmU9tYCyjamKN_-1" vertex="1" connectable="0">
           <mxGeometry x="-0.192" relative="1" as="geometry">
             <mxPoint x="16" as="offset" />
           </mxGeometry>
@@ -589,7 +594,7 @@
             <mxPoint x="-680" y="2075" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y9ipzicmU9tYCyjamKN_-39" value="Requisitos del pedido" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Y9ipzicmU9tYCyjamKN_-38" vertex="1" connectable="0">
+        <mxCell id="Y9ipzicmU9tYCyjamKN_-39" value="producto del pedido" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Y9ipzicmU9tYCyjamKN_-38" vertex="1" connectable="0">
           <mxGeometry x="0.1922" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -1393,7 +1398,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_Hc7avuu3qVlDisQDzcW" name="RD">
-    <mxGraphModel dx="925" dy="1688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="370" dy="1377" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
