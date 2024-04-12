@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-12T14:34:08.608Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0" etag="iO65AzkgySafHd81PccQ" version="24.2.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-04-12T14:36:05.116Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0" etag="T4iqYMZDIIauHkwl1-sx" version="24.2.3" type="github" pages="4">
   <diagram name="DFD" id="RoHcrioW4cpVPGeYBmwy">
-    <mxGraphModel dx="1567" dy="415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2941" dy="1186" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -749,11 +749,36 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tBsbikwfqLEC2E3OU-BM-1" value="Nivel 4.0: Gestionar informacion" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="tBsbikwfqLEC2E3OU-BM-1" value="Nivel 5.0: Gestionar informacion" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="9" y="1910" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tBsbikwfqLEC2E3OU-BM-2" value="&lt;div&gt;4.1&lt;/div&gt;Registrar&lt;div&gt;producto&lt;/div&gt;" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
           <mxGeometry x="108" y="2000" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="tBsbikwfqLEC2E3OU-BM-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="108" y="2054.5" as="targetPoint" />
+            <mxPoint x="-42" y="2054.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tBsbikwfqLEC2E3OU-BM-4" value="Reporte de inventarios" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tBsbikwfqLEC2E3OU-BM-3">
+          <mxGeometry x="-0.0254" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tBsbikwfqLEC2E3OU-BM-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="tBsbikwfqLEC2E3OU-BM-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="2140" as="targetPoint" />
+            <mxPoint x="-50" y="2094" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-40" y="2094" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tBsbikwfqLEC2E3OU-BM-6" value="Reporte de compras" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;" vertex="1" connectable="0" parent="tBsbikwfqLEC2E3OU-BM-5">
+          <mxGeometry x="-0.0537" y="2" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
