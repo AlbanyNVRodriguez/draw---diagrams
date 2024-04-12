@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-12T14:27:58.877Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0" etag="ptDcpQj7AJCLuRzncnBh" version="24.2.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-04-12T14:34:08.608Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0" etag="iO65AzkgySafHd81PccQ" version="24.2.3" type="github" pages="4">
   <diagram name="DFD" id="RoHcrioW4cpVPGeYBmwy">
     <mxGraphModel dx="1567" dy="415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -749,8 +749,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tBsbikwfqLEC2E3OU-BM-1" value="Nivel 4.0: Gestionar productos" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="14" y="1910" width="350" height="40" as="geometry" />
+        <mxCell id="tBsbikwfqLEC2E3OU-BM-1" value="Nivel 4.0: Gestionar informacion" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="9" y="1910" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tBsbikwfqLEC2E3OU-BM-2" value="&lt;div&gt;4.1&lt;/div&gt;Registrar&lt;div&gt;producto&lt;/div&gt;" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
           <mxGeometry x="108" y="2000" width="110" height="110" as="geometry" />
