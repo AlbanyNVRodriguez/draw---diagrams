@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-12T20:49:15.960Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0" etag="s72Xrg97R7Ixpo4I9kXV" version="24.2.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-04-12T20:50:39.373Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0" etag="AaDPAIUmm2jTCSaM1CDh" version="24.2.3" type="github" pages="4">
   <diagram name="DFD" id="RoHcrioW4cpVPGeYBmwy">
-    <mxGraphModel dx="1500" dy="377" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1396" dy="319" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -693,7 +693,7 @@
         </mxCell>
         <mxCell id="nTF7A6v9K7WqKivZR524-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="nTF7A6v9K7WqKivZR524-16" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-320" y="2416" as="targetPoint" />
+            <mxPoint x="-310" y="2437" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nTF7A6v9K7WqKivZR524-21" value="Producto" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;" parent="nTF7A6v9K7WqKivZR524-19" vertex="1" connectable="0">
@@ -858,9 +858,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tBsbikwfqLEC2E3OU-BM-50" value="solicitar" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-90;" parent="tBsbikwfqLEC2E3OU-BM-49" vertex="1" connectable="0">
+        <mxCell id="tBsbikwfqLEC2E3OU-BM-50" value="busqueda del producto" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-90;" parent="tBsbikwfqLEC2E3OU-BM-49" vertex="1" connectable="0">
           <mxGeometry x="0.4274" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-20" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Hltq8f4LTN_YbV0mJiG2-1" value="&lt;div&gt;4.2&lt;/div&gt;Registrar&lt;div&gt;materia prima&lt;/div&gt;" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
