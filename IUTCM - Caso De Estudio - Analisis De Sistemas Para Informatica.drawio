@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-12T14:40:08.952Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0" etag="Y_QNWA2PYZ94qvdOPOf3" version="24.2.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-04-12T14:44:48.419Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0" etag="-SogFQRFB34wfmo9WSqr" version="24.2.3" type="github" pages="4">
   <diagram name="DFD" id="RoHcrioW4cpVPGeYBmwy">
-    <mxGraphModel dx="2677" dy="1038" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1698" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -714,7 +714,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tBsbikwfqLEC2E3OU-BM-10" value="Registros" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tBsbikwfqLEC2E3OU-BM-8">
+        <mxCell id="tBsbikwfqLEC2E3OU-BM-10" value="Registros" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-90;" vertex="1" connectable="0" parent="tBsbikwfqLEC2E3OU-BM-8">
           <mxGeometry x="0.3561" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -724,7 +724,7 @@
             <mxPoint x="260" y="2190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tBsbikwfqLEC2E3OU-BM-2" value="&lt;div&gt;4.1&lt;/div&gt;Registrar&lt;div&gt;producto&lt;/div&gt;" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+        <mxCell id="tBsbikwfqLEC2E3OU-BM-2" value="&lt;div&gt;5.1&lt;/div&gt;Obtener&amp;nbsp;&lt;div&gt;informacion&lt;/div&gt;" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
           <mxGeometry x="108" y="2000" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="tBsbikwfqLEC2E3OU-BM-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
