@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-08T01:22:52.552Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 OPR/111.0.0.0" etag="D0jIscSAWMpunF1JbLnb" version="24.6.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-07-08T01:23:22.443Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 OPR/111.0.0.0" etag="XJwVzm0LuUd0RvhH2KJp" version="24.6.4" type="github" pages="2">
   <diagram name="MR" id="dAHvygyumCc2-ufgUH4W">
     <mxGraphModel dx="707" dy="379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -506,7 +506,7 @@
         <mxCell id="cPavJcYCW4XPvayBxY1k-5" value="direccion" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="690" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cPavJcYCW4XPvayBxY1k-6" value="&lt;span style=&quot;text-decoration-line: underline;&quot;&gt;id_devolucion&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="cPavJcYCW4XPvayBxY1k-6" value="&lt;span style=&quot;text-decoration-line: underline;&quot;&gt;id_devolucion&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="450" y="530" width="95" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cPavJcYCW4XPvayBxY1k-7" value="cod_compra" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -527,13 +527,13 @@
         <mxCell id="cPavJcYCW4XPvayBxY1k-12" value="estado" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="940" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cPavJcYCW4XPvayBxY1k-16" value="id_devolucion" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cPavJcYCW4XPvayBxY1k-16" value="id_devolucion" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="726" y="940" width="107" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cPavJcYCW4XPvayBxY1k-18" value="&lt;span style=&quot;text-decoration-line: underline;&quot;&gt;id_logistica&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="cPavJcYCW4XPvayBxY1k-18" value="&lt;span style=&quot;text-decoration-line: underline;&quot;&gt;id_logistica&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="460" y="940" width="95" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cPavJcYCW4XPvayBxY1k-19" value="&lt;span style=&quot;text-decoration-line: underline;&quot;&gt;ci_gerente&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="cPavJcYCW4XPvayBxY1k-19" value="&lt;span style=&quot;text-decoration-line: underline;&quot;&gt;ci_gerente&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="868" y="940" width="95" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cPavJcYCW4XPvayBxY1k-21" value="nombre" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -542,7 +542,7 @@
         <mxCell id="cPavJcYCW4XPvayBxY1k-22" value="area" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1060" y="940" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cPavJcYCW4XPvayBxY1k-23" value="&lt;span style=&quot;text-decoration-line: underline;&quot;&gt;ci_empleado&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cPavJcYCW4XPvayBxY1k-23" value="&lt;span style=&quot;text-decoration-line: underline;&quot;&gt;ci_empleado&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="827" y="530" width="95" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cPavJcYCW4XPvayBxY1k-26" value="nombre" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -551,7 +551,7 @@
         <mxCell id="cPavJcYCW4XPvayBxY1k-27" value="departamento" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1010" y="530" width="97" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cPavJcYCW4XPvayBxY1k-30" value="id_devolucion" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cPavJcYCW4XPvayBxY1k-30" value="id_devolucion" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1110" y="530" width="95" height="30" as="geometry" />
         </mxCell>
       </root>
