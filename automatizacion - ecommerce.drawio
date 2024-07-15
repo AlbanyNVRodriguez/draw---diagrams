@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-15T02:41:18.268Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 OPR/111.0.0.0" etag="rp7ubSN2mofygjlx5Qit" version="24.6.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-07-15T03:26:07.423Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 OPR/111.0.0.0" etag="mLXYu_I2GlCjJWujC9Nf" version="24.6.4" type="github" pages="3">
   <diagram name="MR" id="dAHvygyumCc2-ufgUH4W">
     <mxGraphModel dx="1837" dy="1710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -503,7 +503,7 @@
         <mxCell id="cPavJcYCW4XPvayBxY1k-21" value="nombre" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="968" y="940" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cPavJcYCW4XPvayBxY1k-22" value="area" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="cPavJcYCW4XPvayBxY1k-22" value="departamento" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1060" y="940" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cPavJcYCW4XPvayBxY1k-23" value="&lt;span style=&quot;text-decoration-line: underline;&quot;&gt;ci_empleado&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
