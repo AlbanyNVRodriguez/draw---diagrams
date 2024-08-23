@@ -1,9 +1,187 @@
-<mxfile host="app.diagrams.net" modified="2024-08-13T01:11:24.873Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 OPR/112.0.0.0" version="24.7.2" etag="UKCDobjeIMJ8qVy7WNWG" type="github">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 OPR/112.0.0.0" version="24.7.7">
   <diagram name="Página-1" id="7cGQxgsx7UaVQlsLajck">
-    <mxGraphModel>
+    <mxGraphModel dx="3535" dy="1895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="wzV9wzHs-IQjrDpGF3Xv-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wzV9wzHs-IQjrDpGF3Xv-1" target="wzV9wzHs-IQjrDpGF3Xv-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wzV9wzHs-IQjrDpGF3Xv-1" value="Comienzo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wzV9wzHs-IQjrDpGF3Xv-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wzV9wzHs-IQjrDpGF3Xv-2" target="wzV9wzHs-IQjrDpGF3Xv-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wzV9wzHs-IQjrDpGF3Xv-2" value="apagar y desenchufar el equipo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="346" y="420" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wzV9wzHs-IQjrDpGF3Xv-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wzV9wzHs-IQjrDpGF3Xv-3" target="wzV9wzHs-IQjrDpGF3Xv-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wzV9wzHs-IQjrDpGF3Xv-3" value="inspeccion visual" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="346.5" y="510" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wzV9wzHs-IQjrDpGF3Xv-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wzV9wzHs-IQjrDpGF3Xv-4" target="wzV9wzHs-IQjrDpGF3Xv-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wzV9wzHs-IQjrDpGF3Xv-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wzV9wzHs-IQjrDpGF3Xv-4" target="wzV9wzHs-IQjrDpGF3Xv-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wzV9wzHs-IQjrDpGF3Xv-4" value="¿Hay algun componeneete defectuoso?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="341" y="600" width="146" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wzV9wzHs-IQjrDpGF3Xv-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wzV9wzHs-IQjrDpGF3Xv-5" target="wzV9wzHs-IQjrDpGF3Xv-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wzV9wzHs-IQjrDpGF3Xv-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wzV9wzHs-IQjrDpGF3Xv-5" target="wzV9wzHs-IQjrDpGF3Xv-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wzV9wzHs-IQjrDpGF3Xv-5" value="¿Hay algun componeneete descolorido?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="341" y="710" width="146" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wzV9wzHs-IQjrDpGF3Xv-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wzV9wzHs-IQjrDpGF3Xv-6" target="wzV9wzHs-IQjrDpGF3Xv-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820.0000000000002" y="700" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="750" y="1240" />
+              <mxPoint x="750" y="590" />
+              <mxPoint x="878" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wzV9wzHs-IQjrDpGF3Xv-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wzV9wzHs-IQjrDpGF3Xv-6" target="wzV9wzHs-IQjrDpGF3Xv-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wzV9wzHs-IQjrDpGF3Xv-6" value="¿Se calienta algun dispositivo?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="341" y="1200" width="146" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wzV9wzHs-IQjrDpGF3Xv-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wzV9wzHs-IQjrDpGF3Xv-7" target="wzV9wzHs-IQjrDpGF3Xv-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wzV9wzHs-IQjrDpGF3Xv-7" value="volver a enchufar y encender el equipo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="346.5" y="830" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wzV9wzHs-IQjrDpGF3Xv-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wzV9wzHs-IQjrDpGF3Xv-16" target="wzV9wzHs-IQjrDpGF3Xv-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wzV9wzHs-IQjrDpGF3Xv-16" value="Quitar el dispositivo y cambiarlo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="830" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wzV9wzHs-IQjrDpGF3Xv-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wzV9wzHs-IQjrDpGF3Xv-17" target="wzV9wzHs-IQjrDpGF3Xv-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wzV9wzHs-IQjrDpGF3Xv-17" value="volver a enchufar y encender el equipo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="920" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wzV9wzHs-IQjrDpGF3Xv-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wzV9wzHs-IQjrDpGF3Xv-20" target="wzV9wzHs-IQjrDpGF3Xv-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wzV9wzHs-IQjrDpGF3Xv-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wzV9wzHs-IQjrDpGF3Xv-20" target="wzV9wzHs-IQjrDpGF3Xv-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="770" y="1080" />
+              <mxPoint x="770" y="1330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wzV9wzHs-IQjrDpGF3Xv-20" value="¿Aparece el mensaje habitual?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="544.5" y="1040" width="146" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wzV9wzHs-IQjrDpGF3Xv-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wzV9wzHs-IQjrDpGF3Xv-28" target="wzV9wzHs-IQjrDpGF3Xv-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wzV9wzHs-IQjrDpGF3Xv-28" value="apagar y desenchufar el equipo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="610" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wzV9wzHs-IQjrDpGF3Xv-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wzV9wzHs-IQjrDpGF3Xv-30" target="wzV9wzHs-IQjrDpGF3Xv-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wzV9wzHs-IQjrDpGF3Xv-30" value="Quitar el dispositivo y cambiarlo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="710" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wzV9wzHs-IQjrDpGF3Xv-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wzV9wzHs-IQjrDpGF3Xv-34" target="wzV9wzHs-IQjrDpGF3Xv-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wzV9wzHs-IQjrDpGF3Xv-34" value="volver a enchufar y encender el equipo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="810" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wzV9wzHs-IQjrDpGF3Xv-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wzV9wzHs-IQjrDpGF3Xv-35" target="wzV9wzHs-IQjrDpGF3Xv-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wzV9wzHs-IQjrDpGF3Xv-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wzV9wzHs-IQjrDpGF3Xv-35" target="wzV9wzHs-IQjrDpGF3Xv-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1000" y="950" />
+              <mxPoint x="1000" y="1290" />
+              <mxPoint x="915" y="1290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wzV9wzHs-IQjrDpGF3Xv-35" value="¿Se sihue calentando?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="804.5" y="910" width="146" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wzV9wzHs-IQjrDpGF3Xv-36" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1110" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wzV9wzHs-IQjrDpGF3Xv-37" value="si" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="665" y="1020" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wzV9wzHs-IQjrDpGF3Xv-38" value="si" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="474" y="760" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wzV9wzHs-IQjrDpGF3Xv-39" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="790" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wzV9wzHs-IQjrDpGF3Xv-40" value="si" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="474" y="650" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wzV9wzHs-IQjrDpGF3Xv-41" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="670" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wzV9wzHs-IQjrDpGF3Xv-42" value="Continuar haciendo el diagnostico de la CPU" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="1330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wzV9wzHs-IQjrDpGF3Xv-43" value="Realizar la rutina de diagnostico por software" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="557.5" y="1330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wzV9wzHs-IQjrDpGF3Xv-44" value="Verificar los componentes y dispositivos asociados" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830.5" y="1330" width="169.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wzV9wzHs-IQjrDpGF3Xv-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="wzV9wzHs-IQjrDpGF3Xv-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="770" y="1180.4285714285716" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wzV9wzHs-IQjrDpGF3Xv-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wzV9wzHs-IQjrDpGF3Xv-51" target="wzV9wzHs-IQjrDpGF3Xv-42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="878" y="1300" />
+              <mxPoint x="414" y="1300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wzV9wzHs-IQjrDpGF3Xv-51" value="¿Aparece el mensaje habitual?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="804.5" y="1140" width="146" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wzV9wzHs-IQjrDpGF3Xv-54" value="si" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="780" y="1139" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wzV9wzHs-IQjrDpGF3Xv-55" value="si" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="945" y="960" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wzV9wzHs-IQjrDpGF3Xv-56" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="895.25" y="990" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wzV9wzHs-IQjrDpGF3Xv-57" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="880" y="1220" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wzV9wzHs-IQjrDpGF3Xv-63" value="Figura 3.7 Flujograma de la inspeccion de la CPU" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="580" y="1410" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wzV9wzHs-IQjrDpGF3Xv-64" value="&lt;span style=&quot;font-size:11.0pt;line-height:&lt;br/&gt;200%;font-family:&amp;quot;Arial&amp;quot;,sans-serif;mso-fareast-font-family:Calibri;mso-bidi-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-ansi-language:ES-CO;mso-fareast-language:EN-US;&lt;br/&gt;mso-bidi-language:AR-SA&quot; lang=&quot;ES-CO&quot;&gt;Michael Tooley (1988). Reparación y mantenimiento de&lt;br/&gt;computadoras. En Paninfo S.A (Ed). Diagnóstico de averías (pp. 109-156)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="435.25" y="1440" width="500" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
