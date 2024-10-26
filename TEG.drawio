@@ -262,7 +262,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ft1v1C8T86SqV0XIfaVu" name="Base de Datos">
-    <mxGraphModel dx="2060" dy="1934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1965" dy="1875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -648,7 +648,7 @@
             <mxRectangle width="160" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XNPu2dKfiaE2rHYmrKYU-17" value="Trozo de torta" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;" vertex="1" parent="XNPu2dKfiaE2rHYmrKYU-1">
+        <mxCell id="XNPu2dKfiaE2rHYmrKYU-17" value="Trozo&amp;nbsp;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;" vertex="1" parent="XNPu2dKfiaE2rHYmrKYU-1">
           <mxGeometry x="280" width="250" height="40" as="geometry">
             <mxRectangle width="250" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -692,51 +692,33 @@
             <mxRectangle width="250" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xXMYv49vZTGKxrLadX9n-6" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="xXMYv49vZTGKxrLadX9n-1">
-          <mxGeometry y="70" width="530" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="xXMYv49vZTGKxrLadX9n-7" value="32165" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="xXMYv49vZTGKxrLadX9n-6">
-          <mxGeometry width="120" height="40" as="geometry">
-            <mxRectangle width="120" height="40" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xXMYv49vZTGKxrLadX9n-8" value="cake" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="xXMYv49vZTGKxrLadX9n-6">
-          <mxGeometry x="120" width="160" height="40" as="geometry">
-            <mxRectangle width="160" height="40" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xXMYv49vZTGKxrLadX9n-9" value="torta" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;" vertex="1" parent="xXMYv49vZTGKxrLadX9n-6">
-          <mxGeometry x="280" width="250" height="40" as="geometry">
-            <mxRectangle width="250" height="40" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="xXMYv49vZTGKxrLadX9n-10" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="xXMYv49vZTGKxrLadX9n-1">
-          <mxGeometry y="110" width="530" height="40" as="geometry" />
+          <mxGeometry y="70" width="530" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xXMYv49vZTGKxrLadX9n-11" value="98751" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="xXMYv49vZTGKxrLadX9n-10">
           <mxGeometry width="120" height="40" as="geometry">
             <mxRectangle width="120" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xXMYv49vZTGKxrLadX9n-12" value="homemade" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="xXMYv49vZTGKxrLadX9n-10">
+        <mxCell id="xXMYv49vZTGKxrLadX9n-12" value="Torta marmoleada" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="xXMYv49vZTGKxrLadX9n-10">
           <mxGeometry x="120" width="160" height="40" as="geometry">
             <mxRectangle width="160" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xXMYv49vZTGKxrLadX9n-13" value="El producto no requiere refrigeración, es casero" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;" vertex="1" parent="xXMYv49vZTGKxrLadX9n-10">
+        <mxCell id="xXMYv49vZTGKxrLadX9n-13" value="Torta de vainilla con chocolate, perfecta para eventos familiares y compartires" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;" vertex="1" parent="xXMYv49vZTGKxrLadX9n-10">
           <mxGeometry x="280" width="250" height="40" as="geometry">
             <mxRectangle width="250" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xXMYv49vZTGKxrLadX9n-14" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="xXMYv49vZTGKxrLadX9n-1">
-          <mxGeometry y="150" width="530" height="40" as="geometry" />
+          <mxGeometry y="110" width="530" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xXMYv49vZTGKxrLadX9n-15" value="74169" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="xXMYv49vZTGKxrLadX9n-14">
           <mxGeometry width="120" height="40" as="geometry">
             <mxRectangle width="120" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xXMYv49vZTGKxrLadX9n-16" value="cold" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="xXMYv49vZTGKxrLadX9n-14">
+        <mxCell id="xXMYv49vZTGKxrLadX9n-16" value="Torta rellena" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="xXMYv49vZTGKxrLadX9n-14">
           <mxGeometry x="120" width="160" height="40" as="geometry">
             <mxRectangle width="160" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -747,14 +729,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xXMYv49vZTGKxrLadX9n-18" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="xXMYv49vZTGKxrLadX9n-1">
-          <mxGeometry y="190" width="530" height="40" as="geometry" />
+          <mxGeometry y="150" width="530" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xXMYv49vZTGKxrLadX9n-19" value="25416" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="xXMYv49vZTGKxrLadX9n-18">
           <mxGeometry width="120" height="40" as="geometry">
             <mxRectangle width="120" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xXMYv49vZTGKxrLadX9n-20" value="portion" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="xXMYv49vZTGKxrLadX9n-18">
+        <mxCell id="xXMYv49vZTGKxrLadX9n-20" value="Torta de piña" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="xXMYv49vZTGKxrLadX9n-18">
           <mxGeometry x="120" width="160" height="40" as="geometry">
             <mxRectangle width="160" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -765,19 +747,37 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xXMYv49vZTGKxrLadX9n-22" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="xXMYv49vZTGKxrLadX9n-1">
-          <mxGeometry y="230" width="530" height="40" as="geometry" />
+          <mxGeometry y="190" width="530" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xXMYv49vZTGKxrLadX9n-23" value="75169" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="xXMYv49vZTGKxrLadX9n-22">
           <mxGeometry width="120" height="40" as="geometry">
             <mxRectangle width="120" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xXMYv49vZTGKxrLadX9n-24" value="personalized" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="xXMYv49vZTGKxrLadX9n-22">
+        <mxCell id="xXMYv49vZTGKxrLadX9n-24" value="porcion de quesillo" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="xXMYv49vZTGKxrLadX9n-22">
           <mxGeometry x="120" width="160" height="40" as="geometry">
             <mxRectangle width="160" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xXMYv49vZTGKxrLadX9n-25" value="El producto debe ser solicitado como mínimo con 1 a 2 días de antelación" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;" vertex="1" parent="xXMYv49vZTGKxrLadX9n-22">
+          <mxGeometry x="280" width="250" height="40" as="geometry">
+            <mxRectangle width="250" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YYOuKAqKIb5Bez5B0lzA-17" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="xXMYv49vZTGKxrLadX9n-1">
+          <mxGeometry y="230" width="530" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YYOuKAqKIb5Bez5B0lzA-18" value="75169" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="YYOuKAqKIb5Bez5B0lzA-17">
+          <mxGeometry width="120" height="40" as="geometry">
+            <mxRectangle width="120" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YYOuKAqKIb5Bez5B0lzA-19" value="porcion de gelatina" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="YYOuKAqKIb5Bez5B0lzA-17">
+          <mxGeometry x="120" width="160" height="40" as="geometry">
+            <mxRectangle width="160" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YYOuKAqKIb5Bez5B0lzA-20" value="El producto debe ser solicitado como mínimo con 1 a 2 días de antelación" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;" vertex="1" parent="YYOuKAqKIb5Bez5B0lzA-17">
           <mxGeometry x="280" width="250" height="40" as="geometry">
             <mxRectangle width="250" height="40" as="alternateBounds" />
           </mxGeometry>
