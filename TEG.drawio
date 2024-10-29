@@ -266,7 +266,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="vpbAEjnuckpJZvyt_qxt-33" value="CUSTOMERS" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="vpbAEjnuckpJZvyt_qxt-33" value="CLIENTES" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="-450" y="-310" width="620" height="190" as="geometry" />
         </mxCell>
         <mxCell id="vpbAEjnuckpJZvyt_qxt-34" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="vpbAEjnuckpJZvyt_qxt-33" vertex="1">
@@ -401,7 +401,7 @@
             <mxRectangle width="147" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vpbAEjnuckpJZvyt_qxt-62" value="SELLERS" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="vpbAEjnuckpJZvyt_qxt-62" value="VENDEDORES" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="-470" y="-30" width="650" height="150.00000000000068" as="geometry" />
         </mxCell>
         <mxCell id="vpbAEjnuckpJZvyt_qxt-63" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="vpbAEjnuckpJZvyt_qxt-62" vertex="1">
@@ -488,7 +488,7 @@
             <mxRectangle width="140" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vpbAEjnuckpJZvyt_qxt-91" value="USERS" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="vpbAEjnuckpJZvyt_qxt-91" value="USUARIOS" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="-500" y="150" width="510" height="150.00000000000068" as="geometry" />
         </mxCell>
         <mxCell id="vpbAEjnuckpJZvyt_qxt-92" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="vpbAEjnuckpJZvyt_qxt-91" vertex="1">
@@ -856,7 +856,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8Y9_7FVMa1msmvIvQlst" name="Página-3">
-    <mxGraphModel dx="1884" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2307" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
