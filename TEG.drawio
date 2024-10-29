@@ -910,7 +910,7 @@
         <mxCell id="hRhpig4_qiOBu9sz0QcG-11" value="de" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" vertex="1" parent="1">
           <mxGeometry x="387" y="145" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="hRhpig4_qiOBu9sz0QcG-12" value="tienen" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" vertex="1" parent="1">
+        <mxCell id="hRhpig4_qiOBu9sz0QcG-12" value="divididos&lt;div style=&quot;font-size: 10px;&quot;&gt;por&lt;/div&gt;" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="690" y="145" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hRhpig4_qiOBu9sz0QcG-13" value="atienden" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;fontSize=10;" vertex="1" parent="1">
