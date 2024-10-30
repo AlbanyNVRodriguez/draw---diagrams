@@ -1085,7 +1085,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LWco6sNy3xDpZJHNtMlf" name="Diagrama de flujo">
-    <mxGraphModel dx="2525" dy="1709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2711" dy="1825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1100,16 +1100,6 @@
         </mxCell>
         <mxCell id="YpGLMtPFSpZhHGHRFjPA-2" value="Atención al cliente" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-867" y="40" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="FR50aKlkmPltf1gJVmNv-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-810" y="695" as="targetPoint" />
-            <mxPoint x="-635" y="670" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="-635" y="695" />
-              <mxPoint x="-800" y="695" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="FR50aKlkmPltf1gJVmNv-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FR50aKlkmPltf1gJVmNv-14" target="FR50aKlkmPltf1gJVmNv-21">
           <mxGeometry relative="1" as="geometry" />
@@ -1284,10 +1274,13 @@
           <mxGeometry x="-1420" y="750" width="96" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FR50aKlkmPltf1gJVmNv-118" value="Porciones" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="-1500" y="810" width="96" height="80" as="geometry" />
+          <mxGeometry x="-764" y="640" width="96" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FR50aKlkmPltf1gJVmNv-119" value="Tortas" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="-1336" y="810" width="96" height="80" as="geometry" />
+          <mxGeometry x="-620" y="646" width="96" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FR50aKlkmPltf1gJVmNv-120" value="Completo&lt;div&gt;compra&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-663" y="830" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
