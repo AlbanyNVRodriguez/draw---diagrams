@@ -1146,7 +1146,7 @@
         <mxCell id="FR50aKlkmPltf1gJVmNv-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YpGLMtPFSpZhHGHRFjPA-19" target="FR50aKlkmPltf1gJVmNv-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YpGLMtPFSpZhHGHRFjPA-19" value="seleccionar producto disponible" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="YpGLMtPFSpZhHGHRFjPA-19" value="Seleccionar producto disponible" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="359" y="608" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YpGLMtPFSpZhHGHRFjPA-21" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
