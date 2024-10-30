@@ -1085,7 +1085,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LWco6sNy3xDpZJHNtMlf" name="Diagrama de flujo">
-    <mxGraphModel dx="3504" dy="2317" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2711" dy="1825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1303,6 +1303,15 @@
         </mxCell>
         <mxCell id="FR50aKlkmPltf1gJVmNv-60" value="Buscar por&amp;nbsp;&lt;div&gt;ticket&amp;nbsp;&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-1060" y="970" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FR50aKlkmPltf1gJVmNv-164" value="Proceso de elaboracion" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=40;" vertex="1" parent="1">
+          <mxGeometry x="-215" y="-130" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FR50aKlkmPltf1gJVmNv-165" value="Reposteros" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="40" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FR50aKlkmPltf1gJVmNv-166" value="Inicio" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="-65" y="-30" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
