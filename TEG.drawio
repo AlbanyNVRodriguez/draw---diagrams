@@ -1134,8 +1134,20 @@
         <mxCell id="YpGLMtPFSpZhHGHRFjPA-14" value="Mostrar modelos de anime" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="370" y="140" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="YpGLMtPFSpZhHGHRFjPA-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YpGLMtPFSpZhHGHRFjPA-15" target="YpGLMtPFSpZhHGHRFjPA-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YpGLMtPFSpZhHGHRFjPA-15" value="¿Pedido&lt;div&gt;personalizado?&lt;/div&gt;" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" vertex="1" parent="1">
           <mxGeometry x="172" y="505" width="96" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YpGLMtPFSpZhHGHRFjPA-19" value="Enseñar catalogo" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="370" y="520" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YpGLMtPFSpZhHGHRFjPA-21" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="259" y="505" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YpGLMtPFSpZhHGHRFjPA-22" value="si" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="505" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
