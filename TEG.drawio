@@ -1350,10 +1350,13 @@
           <mxGeometry x="-1415" y="70" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FR50aKlkmPltf1gJVmNv-219" value="Pagina de&lt;div&gt;catalogo&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-1590" y="260" width="110" height="50" as="geometry" />
+          <mxGeometry x="-1450" y="520" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FR50aKlkmPltf1gJVmNv-221" value="Mostrar" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" vertex="1" parent="1">
+        <mxCell id="FR50aKlkmPltf1gJVmNv-221" value="Pagina de&lt;div&gt;catalogo&lt;/div&gt;" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" vertex="1" parent="1">
           <mxGeometry x="-1583" y="362.5" width="96" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FR50aKlkmPltf1gJVmNv-222" value="Rediriguir&lt;div&gt;a&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-1390" y="312.5" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
