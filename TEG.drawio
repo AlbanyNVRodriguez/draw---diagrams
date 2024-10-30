@@ -1085,7 +1085,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LWco6sNy3xDpZJHNtMlf" name="Diagrama de flujo">
-    <mxGraphModel dx="2525" dy="1709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2887" dy="1934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1101,12 +1101,12 @@
         <mxCell id="YpGLMtPFSpZhHGHRFjPA-2" value="Atención al cliente" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-867" y="40" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FR50aKlkmPltf1gJVmNv-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="FR50aKlkmPltf1gJVmNv-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YpGLMtPFSpZhHGHRFjPA-19">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-810.0000000000005" y="695" as="targetPoint" />
-            <mxPoint x="-634.9999999999995" y="580" as="sourcePoint" />
+            <mxPoint x="-810" y="695" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-635" y="695" />
+              <mxPoint x="-800" y="695" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1193,11 +1193,11 @@
         <mxCell id="FR50aKlkmPltf1gJVmNv-56" value="Nota de retiro" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-1060" y="670" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FR50aKlkmPltf1gJVmNv-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FR50aKlkmPltf1gJVmNv-60" target="YpGLMtPFSpZhHGHRFjPA-19">
+        <mxCell id="FR50aKlkmPltf1gJVmNv-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FR50aKlkmPltf1gJVmNv-60" target="FR50aKlkmPltf1gJVmNv-106">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FR50aKlkmPltf1gJVmNv-60" value="Enseñar&lt;div&gt;catalogo&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-690" y="492.5" width="110" height="50" as="geometry" />
+          <mxGeometry x="-690" y="442.5" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FR50aKlkmPltf1gJVmNv-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FR50aKlkmPltf1gJVmNv-61" target="FR50aKlkmPltf1gJVmNv-14">
           <mxGeometry relative="1" as="geometry" />
@@ -1231,9 +1231,6 @@
             <mxPoint x="-813" y="700" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FR50aKlkmPltf1gJVmNv-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FR50aKlkmPltf1gJVmNv-57" target="FR50aKlkmPltf1gJVmNv-60">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="FR50aKlkmPltf1gJVmNv-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-15;entryPerimeter=0;" edge="1" parent="1" source="FR50aKlkmPltf1gJVmNv-63" target="FR50aKlkmPltf1gJVmNv-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -1247,7 +1244,7 @@
           <mxGeometry x="-35" y="30" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FR50aKlkmPltf1gJVmNv-98" value="Ofrecer promociones" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-35" y="110" width="110" height="50" as="geometry" />
+          <mxGeometry x="-270" y="466" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FR50aKlkmPltf1gJVmNv-99" value="Informacion de la empresa" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-35" y="190" width="110" height="50" as="geometry" />
@@ -1266,6 +1263,18 @@
         </mxCell>
         <mxCell id="FR50aKlkmPltf1gJVmNv-102" value="Vendedor" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" vertex="1" parent="1">
           <mxGeometry x="95" y="362" width="96" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FR50aKlkmPltf1gJVmNv-105" value="Pagina de catalogo" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="466" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FR50aKlkmPltf1gJVmNv-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FR50aKlkmPltf1gJVmNv-106" target="YpGLMtPFSpZhHGHRFjPA-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FR50aKlkmPltf1gJVmNv-106" value="Revisar inventario" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="536" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FR50aKlkmPltf1gJVmNv-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FR50aKlkmPltf1gJVmNv-57" target="FR50aKlkmPltf1gJVmNv-60">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
