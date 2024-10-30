@@ -1134,12 +1134,8 @@
         <mxCell id="FR50aKlkmPltf1gJVmNv-43" value="Compra" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" vertex="1" parent="1">
           <mxGeometry x="-860" y="287.5" width="96" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FR50aKlkmPltf1gJVmNv-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FR50aKlkmPltf1gJVmNv-44" target="FR50aKlkmPltf1gJVmNv-56">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-1162" y="695" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="FR50aKlkmPltf1gJVmNv-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FR50aKlkmPltf1gJVmNv-44" target="FR50aKlkmPltf1gJVmNv-56">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FR50aKlkmPltf1gJVmNv-44" value="Retiro" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" vertex="1" parent="1">
           <mxGeometry x="-1210" y="287.5" width="96" height="80" as="geometry" />
@@ -1160,26 +1156,17 @@
         <mxCell id="FR50aKlkmPltf1gJVmNv-53" value="Mostrar modelos en anime" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-1060" y="442.5" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FR50aKlkmPltf1gJVmNv-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FR50aKlkmPltf1gJVmNv-54" target="FR50aKlkmPltf1gJVmNv-55">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="FR50aKlkmPltf1gJVmNv-54" value="Tomar pedido" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="FR50aKlkmPltf1gJVmNv-54" value="Presupuestar" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-1060" y="516" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FR50aKlkmPltf1gJVmNv-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FR50aKlkmPltf1gJVmNv-55" target="FR50aKlkmPltf1gJVmNv-56">
+        <mxCell id="FR50aKlkmPltf1gJVmNv-55" value="Enviar pedido a&amp;nbsp; reposteria" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-1200" y="608.75" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FR50aKlkmPltf1gJVmNv-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FR50aKlkmPltf1gJVmNv-56" target="FR50aKlkmPltf1gJVmNv-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FR50aKlkmPltf1gJVmNv-55" value="Enviar pedido a&amp;nbsp; reposteria" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-1060" y="596" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="FR50aKlkmPltf1gJVmNv-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="FR50aKlkmPltf1gJVmNv-56">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-816.0000000000005" y="695" as="targetPoint" />
-            <mxPoint x="-946" y="695" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FR50aKlkmPltf1gJVmNv-56" value="Nota de retiro" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-1060" y="670" width="110" height="50" as="geometry" />
+        <mxCell id="FR50aKlkmPltf1gJVmNv-56" value="Entregar&lt;div&gt;nota de retiro&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-1200" y="700" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FR50aKlkmPltf1gJVmNv-60" value="Revisar inventario" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-380" y="762.5" width="110" height="50" as="geometry" />
@@ -1210,11 +1197,6 @@
         </mxCell>
         <mxCell id="FR50aKlkmPltf1gJVmNv-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FR50aKlkmPltf1gJVmNv-57" target="FR50aKlkmPltf1gJVmNv-53">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="FR50aKlkmPltf1gJVmNv-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="FR50aKlkmPltf1gJVmNv-61">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-813" y="700" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="FR50aKlkmPltf1gJVmNv-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-15;entryPerimeter=0;" edge="1" parent="1" source="FR50aKlkmPltf1gJVmNv-63" target="FR50aKlkmPltf1gJVmNv-23">
           <mxGeometry relative="1" as="geometry" />
@@ -1334,7 +1316,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FR50aKlkmPltf1gJVmNv-137" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-1060" y="750" width="130" height="87.5" as="geometry" />
+          <mxGeometry x="-1065" y="590" width="130" height="87.5" as="geometry" />
         </mxCell>
         <mxCell id="FR50aKlkmPltf1gJVmNv-139" value="¿Concreto&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;compra?&lt;/span&gt;&lt;/div&gt;" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" vertex="1" parent="FR50aKlkmPltf1gJVmNv-137">
           <mxGeometry x="10" y="7.5" width="96" height="80" as="geometry" />
