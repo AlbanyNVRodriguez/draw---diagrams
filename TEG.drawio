@@ -1149,6 +1149,15 @@
         <mxCell id="YpGLMtPFSpZhHGHRFjPA-22" value="si" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="150" y="505" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="YpGLMtPFSpZhHGHRFjPA-23" value="Enseñar catalogo" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry y="585" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YpGLMtPFSpZhHGHRFjPA-24" value="Se realiza factura" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="165" y="700" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YpGLMtPFSpZhHGHRFjPA-25" value="Entrega de producto" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="165" y="790" width="110" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
