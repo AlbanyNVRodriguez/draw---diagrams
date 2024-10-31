@@ -1234,7 +1234,7 @@
           <mxGeometry x="270" y="-160" width="440" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FR50aKlkmPltf1gJVmNv-165" value="Reposteros" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="445" y="-21" width="110" height="50" as="geometry" />
+          <mxGeometry x="445" y="-15" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FR50aKlkmPltf1gJVmNv-166" value="Inicio" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" parent="1" vertex="1">
           <mxGeometry x="460" y="-82" width="80" height="30" as="geometry" />
@@ -1730,19 +1730,19 @@
           <mxGeometry x="605" y="275" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zTTrI43JNAHhq0j3m0Dh-138" value="Elaborar" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="370" y="485" width="110" height="50" as="geometry" />
+          <mxGeometry x="175" y="520" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zTTrI43JNAHhq0j3m0Dh-139" value="Empacar" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="370" y="555" width="110" height="50" as="geometry" />
+          <mxGeometry x="175" y="590" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zTTrI43JNAHhq0j3m0Dh-141" value="Notificar&lt;div&gt;disponibilidad&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="370" y="638" width="110" height="50" as="geometry" />
+          <mxGeometry x="175" y="673" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zTTrI43JNAHhq0j3m0Dh-142" value="¿Disponibles&lt;span style=&quot;background-color: initial;&quot;&gt;?&lt;/span&gt;" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="577" y="464" width="96" height="80" as="geometry" />
+          <mxGeometry x="442" y="464" width="96" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zTTrI43JNAHhq0j3m0Dh-143" value="Buscar materiales en&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;almacén&lt;/span&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="570" y="393" width="110" height="50" as="geometry" />
+          <mxGeometry x="445" y="372.5" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zTTrI43JNAHhq0j3m0Dh-144" value="Notificar inexistensia" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="730" y="479" width="110" height="50" as="geometry" />
