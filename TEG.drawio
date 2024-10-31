@@ -1085,7 +1085,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LWco6sNy3xDpZJHNtMlf" name="Diagrama de flujo">
-    <mxGraphModel dx="4541" dy="1934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5422" dy="2480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1204,15 +1204,10 @@
         <mxCell id="FR50aKlkmPltf1gJVmNv-106" value="Enseñar&lt;div&gt;catalogo&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-687" y="442.5" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FR50aKlkmPltf1gJVmNv-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="FR50aKlkmPltf1gJVmNv-113" target="FR50aKlkmPltf1gJVmNv-106" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-557" y="647" />
-              <mxPoint x="-557" y="467" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="FR50aKlkmPltf1gJVmNv-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FR50aKlkmPltf1gJVmNv-113" target="FR50aKlkmPltf1gJVmNv-130" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zTTrI43JNAHhq0j3m0Dh-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="FR50aKlkmPltf1gJVmNv-113" target="zTTrI43JNAHhq0j3m0Dh-153">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FR50aKlkmPltf1gJVmNv-113" value="¿Disponible?" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" parent="1" vertex="1">
@@ -1731,7 +1726,7 @@
         <mxCell id="zTTrI43JNAHhq0j3m0Dh-135" value="Revisar&lt;div&gt;&amp;nbsp;pedidos&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="285" y="275" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="zTTrI43JNAHhq0j3m0Dh-136" value="Revisar&amp;nbsp;&lt;div&gt;&amp;nbsp;inventario&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="zTTrI43JNAHhq0j3m0Dh-136" value="Consultar al área de ventas" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="605" y="275" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zTTrI43JNAHhq0j3m0Dh-138" value="Elaborar" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
@@ -1766,6 +1761,17 @@
         </mxCell>
         <mxCell id="zTTrI43JNAHhq0j3m0Dh-148" value="Productos&lt;div&gt;basicos&lt;/div&gt;" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" vertex="1" parent="1">
           <mxGeometry x="612" y="150" width="96" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zTTrI43JNAHhq0j3m0Dh-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zTTrI43JNAHhq0j3m0Dh-153" target="FR50aKlkmPltf1gJVmNv-106">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-475" y="468" />
+              <mxPoint x="-553" y="468" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zTTrI43JNAHhq0j3m0Dh-153" value="Notificar al área de repostería" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-530" y="520" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
