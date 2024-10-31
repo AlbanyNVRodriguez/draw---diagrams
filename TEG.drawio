@@ -1085,7 +1085,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LWco6sNy3xDpZJHNtMlf" name="Diagrama de flujo">
-    <mxGraphModel dx="5422" dy="2480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4365" dy="1825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
