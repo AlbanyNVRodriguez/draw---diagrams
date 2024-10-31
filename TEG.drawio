@@ -1347,13 +1347,13 @@
           <mxGeometry x="-1628" y="60" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FR50aKlkmPltf1gJVmNv-218" value="Mostrar&lt;div&gt;información del&lt;div&gt;negocio&lt;/div&gt;&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="-1798" y="457.5" width="110" height="50" as="geometry" />
+          <mxGeometry x="-2040" y="457.5" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FR50aKlkmPltf1gJVmNv-219" value="Modelos en&amp;nbsp;&lt;div&gt;tendencia&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="-1780" y="707.5" width="110" height="50" as="geometry" />
+          <mxGeometry x="-1750" y="707.5" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FR50aKlkmPltf1gJVmNv-221" value="Página de&amp;nbsp;&lt;div&gt;información&lt;/div&gt;" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" parent="1" vertex="1">
-          <mxGeometry x="-1791" y="352.5" width="96" height="80" as="geometry" />
+          <mxGeometry x="-2033" y="352.5" width="96" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FR50aKlkmPltf1gJVmNv-222" value="Rediriguir&lt;div&gt;a&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-1608" y="810" width="110" height="50" as="geometry" />
@@ -1377,16 +1377,19 @@
           <mxGeometry x="-1619" y="352.5" width="96" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FR50aKlkmPltf1gJVmNv-226" value="Página de&amp;nbsp;&lt;div&gt;gestión&lt;/div&gt;" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" parent="1" vertex="1">
-          <mxGeometry x="-1451" y="352.5" width="96" height="80" as="geometry" />
+          <mxGeometry x="-1280" y="352.5" width="96" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FR50aKlkmPltf1gJVmNv-230" value="Las mas&lt;div&gt;&amp;nbsp;vendidas&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="FR50aKlkmPltf1gJVmNv-230" value="Las tortas más&lt;div&gt;&amp;nbsp;vendidas&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-1608" y="707.5" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FR50aKlkmPltf1gJVmNv-231" value="Promociones" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="FR50aKlkmPltf1gJVmNv-231" value="Variedad de&amp;nbsp;&lt;div&gt;porciones&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-1440" y="707.5" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zTTrI43JNAHhq0j3m0Dh-2" value="Mostrar previsualización&lt;div&gt;de productos&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-1628" y="140" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zTTrI43JNAHhq0j3m0Dh-3" value="Contacto con&lt;div&gt;area de ventas&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-1860" y="850" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
