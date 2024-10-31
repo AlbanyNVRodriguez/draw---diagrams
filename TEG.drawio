@@ -1085,7 +1085,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LWco6sNy3xDpZJHNtMlf" name="Diagrama de flujo">
-    <mxGraphModel dx="3538" dy="1825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3714" dy="1934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1344,22 +1344,22 @@
           <mxGeometry x="-1628" y="-22" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FR50aKlkmPltf1gJVmNv-217" value="Ofrecer&amp;nbsp;&lt;div&gt;promociones&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="-1628" y="143" width="110" height="50" as="geometry" />
+          <mxGeometry x="-1628" y="60" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FR50aKlkmPltf1gJVmNv-218" value="Mostrar&lt;div&gt;información del&lt;div&gt;negocio&lt;/div&gt;&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="-1628" y="58" width="110" height="50" as="geometry" />
+          <mxGeometry x="-1390" y="108" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FR50aKlkmPltf1gJVmNv-219" value="Modelos en&amp;nbsp;&lt;div&gt;tendencia&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="-1800" y="495.5" width="110" height="50" as="geometry" />
+          <mxGeometry x="-1780" y="707.5" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FR50aKlkmPltf1gJVmNv-221" value="Tortas&lt;div&gt;Personalizadas&lt;/div&gt;" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" parent="1" vertex="1">
-          <mxGeometry x="-1793" y="368" width="96" height="80" as="geometry" />
+        <mxCell id="FR50aKlkmPltf1gJVmNv-221" value="Pagina de&amp;nbsp;&lt;div&gt;catalogo&lt;/div&gt;" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" parent="1" vertex="1">
+          <mxGeometry x="-1773" y="580" width="96" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FR50aKlkmPltf1gJVmNv-222" value="Rediriguir&lt;div&gt;a&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="-1628" y="598" width="110" height="50" as="geometry" />
+          <mxGeometry x="-1608" y="810" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FR50aKlkmPltf1gJVmNv-223" value="Pagina de&lt;div&gt;catalogo&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="-1628" y="698" width="110" height="50" as="geometry" />
+          <mxGeometry x="-1608" y="910" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FR50aKlkmPltf1gJVmNv-227" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FR50aKlkmPltf1gJVmNv-224" target="FR50aKlkmPltf1gJVmNv-221" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1370,20 +1370,23 @@
         <mxCell id="FR50aKlkmPltf1gJVmNv-229" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FR50aKlkmPltf1gJVmNv-224" target="FR50aKlkmPltf1gJVmNv-226" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FR50aKlkmPltf1gJVmNv-224" value="Previsualizar" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" parent="1" vertex="1">
-          <mxGeometry x="-1621" y="238" width="96" height="80" as="geometry" />
+        <mxCell id="FR50aKlkmPltf1gJVmNv-224" value="Redireccion&lt;div&gt;a&lt;/div&gt;" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" parent="1" vertex="1">
+          <mxGeometry x="-1601" y="450" width="96" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FR50aKlkmPltf1gJVmNv-225" value="Tortas&lt;div&gt;Disponibles&lt;/div&gt;" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" parent="1" vertex="1">
-          <mxGeometry x="-1621" y="368" width="96" height="80" as="geometry" />
+        <mxCell id="FR50aKlkmPltf1gJVmNv-225" value="Pagina de&amp;nbsp;&lt;div&gt;informacion&lt;/div&gt;" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" parent="1" vertex="1">
+          <mxGeometry x="-1601" y="580" width="96" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FR50aKlkmPltf1gJVmNv-226" value="Porciones&lt;div&gt;disponibles&lt;/div&gt;" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" parent="1" vertex="1">
-          <mxGeometry x="-1453" y="368" width="96" height="80" as="geometry" />
+        <mxCell id="FR50aKlkmPltf1gJVmNv-226" value="Pagina de&amp;nbsp;&lt;div&gt;gestion&lt;/div&gt;" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" parent="1" vertex="1">
+          <mxGeometry x="-1433" y="580" width="96" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FR50aKlkmPltf1gJVmNv-230" value="Las mas&lt;div&gt;&amp;nbsp;vendidas&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="-1628" y="495.5" width="110" height="50" as="geometry" />
+          <mxGeometry x="-1608" y="707.5" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FR50aKlkmPltf1gJVmNv-231" value="Promociones" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="-1460" y="495.5" width="110" height="50" as="geometry" />
+          <mxGeometry x="-1440" y="707.5" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zTTrI43JNAHhq0j3m0Dh-2" value="Mostrar previsualización&lt;div&gt;de productos&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-1628" y="140" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
