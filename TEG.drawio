@@ -1482,7 +1482,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LWco6sNy3xDpZJHNtMlf" name="Diagrama de flujo">
-    <mxGraphModel dx="4788" dy="2087" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4952" dy="2189" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2260,6 +2260,33 @@
         </mxCell>
         <mxCell id="hfzwzMjBEoWSC5MnHSh9-1" value="Departamento de administracion" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=40;" vertex="1" parent="1">
           <mxGeometry x="750" y="-160" width="600" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hfzwzMjBEoWSC5MnHSh9-2" value="Inicio" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="1010" y="-80" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hfzwzMjBEoWSC5MnHSh9-3" value="Supervisar" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="-15" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hfzwzMjBEoWSC5MnHSh9-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hfzwzMjBEoWSC5MnHSh9-4" target="hfzwzMjBEoWSC5MnHSh9-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hfzwzMjBEoWSC5MnHSh9-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hfzwzMjBEoWSC5MnHSh9-4" target="hfzwzMjBEoWSC5MnHSh9-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hfzwzMjBEoWSC5MnHSh9-4" value="Area&lt;div&gt;de&lt;/div&gt;" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="80" width="96" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hfzwzMjBEoWSC5MnHSh9-5" value="Ventas" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="870" y="140" width="96" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hfzwzMjBEoWSC5MnHSh9-6" value="Reposteria" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="140" width="96" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hfzwzMjBEoWSC5MnHSh9-10" value="Surtir&amp;nbsp;&lt;div&gt;material&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;impreso&lt;/span&gt;&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="863" y="300" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hfzwzMjBEoWSC5MnHSh9-11" value="Surtir&amp;nbsp;&lt;div&gt;materia prima&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1133" y="290" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
