@@ -1482,7 +1482,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LWco6sNy3xDpZJHNtMlf" name="Diagrama de flujo">
-    <mxGraphModel dx="5422" dy="2480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4788" dy="2087" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1498,7 +1498,7 @@
         <mxCell id="FR50aKlkmPltf1gJVmNv-210" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="zTTrI43JNAHhq0j3m0Dh-189" source="YpGLMtPFSpZhHGHRFjPA-2" target="FR50aKlkmPltf1gJVmNv-63" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YpGLMtPFSpZhHGHRFjPA-2" value="Área de ventas" style="html=1;dashed=0;whiteSpace=wrap;" parent="zTTrI43JNAHhq0j3m0Dh-189" vertex="1">
+        <mxCell id="YpGLMtPFSpZhHGHRFjPA-2" value="Atencion al cliente" style="html=1;dashed=0;whiteSpace=wrap;" parent="zTTrI43JNAHhq0j3m0Dh-189" vertex="1">
           <mxGeometry x="323" y="139" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FR50aKlkmPltf1gJVmNv-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="zTTrI43JNAHhq0j3m0Dh-189" source="FR50aKlkmPltf1gJVmNv-21" target="FR50aKlkmPltf1gJVmNv-189" edge="1">
@@ -1595,8 +1595,8 @@
         <mxCell id="FR50aKlkmPltf1gJVmNv-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="zTTrI43JNAHhq0j3m0Dh-189" source="FR50aKlkmPltf1gJVmNv-57" target="FR50aKlkmPltf1gJVmNv-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FR50aKlkmPltf1gJVmNv-95" value="Proceso de venta" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=40;" parent="zTTrI43JNAHhq0j3m0Dh-189" vertex="1">
-          <mxGeometry x="210" width="330" height="60" as="geometry" />
+        <mxCell id="FR50aKlkmPltf1gJVmNv-95" value="Departamento de venta" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=40;" parent="zTTrI43JNAHhq0j3m0Dh-189" vertex="1">
+          <mxGeometry x="155" width="440" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FR50aKlkmPltf1gJVmNv-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="zTTrI43JNAHhq0j3m0Dh-189" source="FR50aKlkmPltf1gJVmNv-106" target="FR50aKlkmPltf1gJVmNv-113" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -2148,15 +2148,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zTTrI43JNAHhq0j3m0Dh-191" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-150" y="-160" width="452" height="929" as="geometry" />
+          <mxGeometry x="-150" y="-160" width="480" height="929" as="geometry" />
         </mxCell>
-        <mxCell id="FR50aKlkmPltf1gJVmNv-164" value="Proceso de elaboracion" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=40;" parent="zTTrI43JNAHhq0j3m0Dh-191" vertex="1">
-          <mxGeometry width="440" height="60" as="geometry" />
+        <mxCell id="FR50aKlkmPltf1gJVmNv-164" value="Departamento de repostería" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=40;" parent="zTTrI43JNAHhq0j3m0Dh-191" vertex="1">
+          <mxGeometry x="-8" width="520" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zTTrI43JNAHhq0j3m0Dh-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="zTTrI43JNAHhq0j3m0Dh-191" source="FR50aKlkmPltf1gJVmNv-165" target="zTTrI43JNAHhq0j3m0Dh-146" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FR50aKlkmPltf1gJVmNv-165" value="Área de repostería" style="html=1;dashed=0;whiteSpace=wrap;" parent="zTTrI43JNAHhq0j3m0Dh-191" vertex="1">
+        <mxCell id="FR50aKlkmPltf1gJVmNv-165" value="Reposteros" style="html=1;dashed=0;whiteSpace=wrap;" parent="zTTrI43JNAHhq0j3m0Dh-191" vertex="1">
           <mxGeometry x="175" y="145" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zTTrI43JNAHhq0j3m0Dh-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="zTTrI43JNAHhq0j3m0Dh-191" source="FR50aKlkmPltf1gJVmNv-166" target="FR50aKlkmPltf1gJVmNv-165" edge="1">
@@ -2257,6 +2257,9 @@
         </mxCell>
         <mxCell id="zTTrI43JNAHhq0j3m0Dh-178" value="Si" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="zTTrI43JNAHhq0j3m0Dh-191" vertex="1">
           <mxGeometry x="187" y="625" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hfzwzMjBEoWSC5MnHSh9-1" value="Departamento de administracion" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=40;" vertex="1" parent="1">
+          <mxGeometry x="750" y="-160" width="600" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
