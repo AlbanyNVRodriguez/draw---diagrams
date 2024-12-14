@@ -2682,10 +2682,10 @@
         <mxCell id="kmK7W62nG1jgw8hoZW8S-20" value="Empleados" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1559" y="480" width="95" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="kmK7W62nG1jgw8hoZW8S-23" value="Consultar página" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="1137" y="479" width="100" height="30" as="geometry" />
+        <mxCell id="kmK7W62nG1jgw8hoZW8S-23" value="Parametro de busqueda" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1122" y="479" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kmK7W62nG1jgw8hoZW8S-30" value="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#ffffff;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;rounded=1;resizeHeight=0;noLabel=0;" vertex="1" parent="1">
+        <mxCell id="kmK7W62nG1jgw8hoZW8S-30" value="2" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#ffffff;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;rounded=1;resizeHeight=0;noLabel=0;" vertex="1" parent="1">
           <mxGeometry x="1157.5" y="710" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="kmK7W62nG1jgw8hoZW8S-31" value="Mostrar pagina&lt;div&gt;&amp;nbsp;solicitada&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=0;strokeColor=none;fillColor=none;resizeHeight=0;noLabel=0;connectable=1;allowArrows=1;container=0;recursiveResize=1;" vertex="1" parent="kmK7W62nG1jgw8hoZW8S-30">
@@ -2790,8 +2790,8 @@
         <mxCell id="kmK7W62nG1jgw8hoZW8S-69" value="Usuario y contraseña" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="1560" y="737" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kmK7W62nG1jgw8hoZW8S-70" value="Consulta información" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="1024.5" y="737" width="120" height="30" as="geometry" />
+        <mxCell id="kmK7W62nG1jgw8hoZW8S-70" value="Parámetro de búsqueda" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1019.5" y="737" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kmK7W62nG1jgw8hoZW8S-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.001;entryY=0.36;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
