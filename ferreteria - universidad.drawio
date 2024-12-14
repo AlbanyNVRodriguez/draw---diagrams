@@ -2193,7 +2193,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zL0lhiu0ES4w4U7c3h0q" name="Diagrama de flujo de datos DFD">
-    <mxGraphModel dx="1057" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="740" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2682,7 +2682,7 @@
         <mxCell id="kmK7W62nG1jgw8hoZW8S-20" value="Empleados" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1559" y="480" width="95" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="kmK7W62nG1jgw8hoZW8S-23" value="Consulta paginas" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="kmK7W62nG1jgw8hoZW8S-23" value="Consultar página" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="1137" y="479" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kmK7W62nG1jgw8hoZW8S-30" value="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#ffffff;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;rounded=1;resizeHeight=0;noLabel=0;" vertex="1" parent="1">
@@ -2691,7 +2691,7 @@
         <mxCell id="kmK7W62nG1jgw8hoZW8S-31" value="Mostrar pagina&lt;div&gt;&amp;nbsp;solicitada&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=0;strokeColor=none;fillColor=none;resizeHeight=0;noLabel=0;connectable=1;allowArrows=1;container=0;recursiveResize=1;" vertex="1" parent="kmK7W62nG1jgw8hoZW8S-30">
           <mxGeometry y="20" width="110" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="kmK7W62nG1jgw8hoZW8S-34" value="Información de la empresa" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="kmK7W62nG1jgw8hoZW8S-34" value="Página web de la empresa" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="1111" y="547" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kmK7W62nG1jgw8hoZW8S-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.179;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kmK7W62nG1jgw8hoZW8S-20" target="kmK7W62nG1jgw8hoZW8S-17">
@@ -2747,11 +2747,11 @@
         <mxCell id="kmK7W62nG1jgw8hoZW8S-52" value="Almacen de usuarios" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="kmK7W62nG1jgw8hoZW8S-53">
           <mxGeometry x="30" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kmK7W62nG1jgw8hoZW8S-56" value="Información de contactos" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="1111" y="585" width="140" height="30" as="geometry" />
+        <mxCell id="kmK7W62nG1jgw8hoZW8S-56" value="Página web&amp;nbsp;de nosotros" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1116" y="585" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kmK7W62nG1jgw8hoZW8S-57" value="Información de productos" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="1111" y="627" width="140" height="30" as="geometry" />
+        <mxCell id="kmK7W62nG1jgw8hoZW8S-57" value="Página web&amp;nbsp;de catalogo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1116" y="627" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kmK7W62nG1jgw8hoZW8S-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.255;entryY=1.005;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="kmK7W62nG1jgw8hoZW8S-19" target="kmK7W62nG1jgw8hoZW8S-17">
           <mxGeometry relative="1" as="geometry" />
