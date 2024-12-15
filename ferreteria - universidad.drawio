@@ -3075,10 +3075,10 @@
         <mxCell id="Bt965JGucTFP9cDIwW-O-56" value="Sitio web&lt;div&gt;Q´Tortas C.A&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=0;strokeColor=none;fillColor=none;resizeHeight=0;noLabel=0;connectable=1;allowArrows=1;container=0;recursiveResize=1;" parent="Bt965JGucTFP9cDIwW-O-55" vertex="1">
           <mxGeometry y="20" width="110" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Bt965JGucTFP9cDIwW-O-57" value="Cliente" style="html=1;dashed=0;whiteSpace=wrap;" parent="lQGC8e8SUrBiBMAMtq2G-75" vertex="1">
+        <mxCell id="Bt965JGucTFP9cDIwW-O-57" value="Visitante" style="html=1;dashed=0;whiteSpace=wrap;" parent="lQGC8e8SUrBiBMAMtq2G-75" vertex="1">
           <mxGeometry y="95" width="95" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Bt965JGucTFP9cDIwW-O-58" value="Administrador" style="html=1;dashed=0;whiteSpace=wrap;" parent="lQGC8e8SUrBiBMAMtq2G-75" vertex="1">
+        <mxCell id="Bt965JGucTFP9cDIwW-O-58" value="Usuario" style="html=1;dashed=0;whiteSpace=wrap;" parent="lQGC8e8SUrBiBMAMtq2G-75" vertex="1">
           <mxGeometry x="549" y="95" width="95" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Bt965JGucTFP9cDIwW-O-59" value="Parametro de busqueda" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="lQGC8e8SUrBiBMAMtq2G-75" vertex="1">
