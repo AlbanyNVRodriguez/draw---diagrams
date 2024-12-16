@@ -2193,7 +2193,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zL0lhiu0ES4w4U7c3h0q" name="Diagrama de flujo de datos DFD">
-    <mxGraphModel dx="1138" dy="3044" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1057" dy="2994" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2966,15 +2966,6 @@
         <mxCell id="lQGC8e8SUrBiBMAMtq2G-56" value="Eliminación&lt;div&gt;de producto&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="2205" y="405" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lQGC8e8SUrBiBMAMtq2G-57" value="Vendedor" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1835" y="290" width="95" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="lQGC8e8SUrBiBMAMtq2G-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.007;entryY=0.358;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lQGC8e8SUrBiBMAMtq2G-57" target="lQGC8e8SUrBiBMAMtq2G-43">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lQGC8e8SUrBiBMAMtq2G-59" value="Información de producto" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="1965" y="280" width="130" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="lQGC8e8SUrBiBMAMtq2G-61" value="3.2" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#ffffff;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;rounded=1;resizeHeight=0;noLabel=0;" vertex="1" parent="1">
           <mxGeometry x="2110" y="607" width="110" height="90" as="geometry" />
         </mxCell>
@@ -3010,7 +3001,7 @@
             <mxPoint x="2130.36" y="604.92" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lQGC8e8SUrBiBMAMtq2G-69" value="Administrador" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="lQGC8e8SUrBiBMAMtq2G-69" value="Usuario" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2430" y="290" width="95" height="50" as="geometry" />
         </mxCell>
         <mxCell id="lQGC8e8SUrBiBMAMtq2G-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.357;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lQGC8e8SUrBiBMAMtq2G-69" target="lQGC8e8SUrBiBMAMtq2G-43">
