@@ -2193,7 +2193,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zL0lhiu0ES4w4U7c3h0q" name="Diagrama de flujo de datos DFD">
-    <mxGraphModel dx="1233" dy="3103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1480" dy="3256" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2867,8 +2867,8 @@
         <mxCell id="lQGC8e8SUrBiBMAMtq2G-20" value="Informacion&lt;div&gt;de usuarios&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="2377" y="-368" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lQGC8e8SUrBiBMAMtq2G-23" value="Usuario y contraseña" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="2546" y="-510" width="120" height="30" as="geometry" />
+        <mxCell id="lQGC8e8SUrBiBMAMtq2G-23" value="&lt;span style=&quot;text-align: left;&quot;&gt;Credenciales de inicio de sesión&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="2521" y="-510" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lQGC8e8SUrBiBMAMtq2G-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.996;entryY=0.43;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Bt965JGucTFP9cDIwW-O-15" target="Bt965JGucTFP9cDIwW-O-17" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -3036,8 +3036,8 @@
             <mxPoint x="360" y="95.5300000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Bt965JGucTFP9cDIwW-O-62" value="Usuario y contraseña" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="lQGC8e8SUrBiBMAMtq2G-75" vertex="1">
-          <mxGeometry x="380" y="73" width="120" height="30" as="geometry" />
+        <mxCell id="Bt965JGucTFP9cDIwW-O-62" value="Credenciales de inicio de sesión" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="lQGC8e8SUrBiBMAMtq2G-75" vertex="1">
+          <mxGeometry x="380" y="73" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Bt965JGucTFP9cDIwW-O-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.571;entryDx=0;entryDy=0;entryPerimeter=0;" parent="lQGC8e8SUrBiBMAMtq2G-75" edge="1">
           <mxGeometry relative="1" as="geometry">
